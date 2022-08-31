@@ -1,0 +1,214 @@
+2022-06-29 15:15:03.5074 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 15:15:03.5483 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 15:15:03.5547 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 15:16:36.6833 ERROR An unhandled exception has occurred while executing the request.
+2022-06-29 15:22:43.2542 INFO GeUserstRentedMovies initiated
+2022-06-29 15:22:47.4244 INFO GeUserstRentedMovies initiated
+2022-06-29 15:22:51.1426 INFO GeUserstRentedMovies initiated
+2022-06-29 15:23:07.5574 INFO GeUserstRentedMovies initiated
+2022-06-29 15:24:49.8120 INFO GetMoviesList initiated
+2022-06-29 15:24:49.8638 WARN Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'
+2022-06-29 15:25:14.4801 INFO AddMovie initiated
+2022-06-29 15:25:14.5244 ERROR An unhandled exception has occurred while executing the request.
+2022-06-29 15:25:22.3924 INFO GetMoviesList initiated
+2022-06-29 15:26:31.6073 INFO GeUserstRentedMovies initiated
+2022-06-29 15:29:01.5481 INFO GetMoviesList initiated
+2022-06-29 15:29:06.1261 INFO GetMoviesList initiated
+2022-06-29 15:29:06.7541 INFO GetMoviesList initiated
+2022-06-29 15:31:04.5586 INFO GeUserstRentedMovies initiated
+2022-06-29 15:31:09.9448 INFO AddMovie initiated
+2022-06-29 15:31:09.9706 ERROR Failed executing DbCommand (15ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32), @p4='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Name], [OwnerId], [Price], [ProductionHouseId], [RenterId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-06-29 15:31:09.9867 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Movies_AspNetUsers_OwnerId". The conflict occurred in database "Film", table "dbo.AspNetUsers", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:53c5c234-2e1a-4264-bbbb-860174732e42
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-06-29 15:31:10.0350 ERROR Exception Caught
+2022-06-29 15:31:18.8025 INFO GetMoviesList initiated
+2022-06-29 15:33:06.6543 INFO GeUserstRentedMovies initiated
+2022-06-29 15:33:24.4128 INFO GeUserstRentedMovies initiated
+2022-06-29 15:36:08.6787 INFO GeUserstRentedMovies initiated
+2022-06-29 15:36:09.7101 INFO GeUserstRentedMovies initiated
+2022-06-29 15:36:10.5192 INFO GeUserstRentedMovies initiated
+2022-06-29 15:36:17.0207 INFO GeUserstRentedMovies initiated
+2022-06-29 15:36:20.4127 INFO GeUserstRentedMovies initiated
+2022-06-29 15:36:26.1130 INFO GeUserstRentedMovies initiated
+2022-06-29 15:36:43.3151 INFO AddMovie initiated
+2022-06-29 15:36:43.3286 ERROR An unhandled exception has occurred while executing the request.
+2022-06-29 15:36:49.6137 INFO GetMoviesList initiated
+2022-06-29 15:37:48.3888 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 15:37:48.4259 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 15:37:48.4259 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 15:38:04.7729 INFO AddMovie initiated
+2022-06-29 15:38:30.7710 INFO GeUserstRentedMovies initiated
+2022-06-29 15:38:33.0475 INFO GeUserstRentedMovies initiated
+2022-06-29 15:43:20.4810 INFO GeUserstRentedMovies initiated
+2022-06-29 15:44:23.0339 INFO GeUserstRentedMovies initiated
+2022-06-29 15:44:24.3261 INFO GeUserstRentedMovies initiated
+2022-06-29 15:44:52.2171 INFO GeUserstRentedMovies initiated
+2022-06-29 15:44:53.7369 INFO GeUserstRentedMovies initiated
+2022-06-29 15:44:54.7118 INFO GeUserstRentedMovies initiated
+2022-06-29 15:45:00.4376 INFO GeUserstRentedMovies initiated
+2022-06-29 15:46:29.1726 INFO GeUserstRentedMovies initiated
+2022-06-29 15:46:34.7677 INFO GeUserstRentedMovies initiated
+2022-06-29 15:46:38.4894 INFO GeUserstRentedMovies initiated
+2022-06-29 15:46:43.5545 INFO GeUserstRentedMovies initiated
+2022-06-29 15:46:48.3067 INFO GeUserstRentedMovies initiated
+2022-06-29 15:46:53.0944 INFO GeUserstRentedMovies initiated
+2022-06-29 15:46:55.4575 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:04.1160 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:12.5283 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:19.1715 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:20.2409 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:26.4482 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:27.9842 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:37.5107 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:40.1780 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:44.7151 INFO GeUserstRentedMovies initiated
+2022-06-29 15:47:55.7684 INFO GeUserstRentedMovies initiated
+2022-06-29 15:49:44.5213 INFO GeUserstRentedMovies initiated
+2022-06-29 15:51:19.4075 INFO GeUserstRentedMovies initiated
+2022-06-29 15:51:30.6443 INFO GeUserstRentedMovies initiated
+2022-06-29 15:51:39.6362 INFO GeUserstRentedMovies initiated
+2022-06-29 15:51:41.7360 INFO GeUserstRentedMovies initiated
+2022-06-29 15:52:03.4997 INFO GeUserstRentedMovies initiated
+2022-06-29 15:52:05.0393 INFO GeUserstRentedMovies initiated
+2022-06-29 15:52:11.5781 INFO GeUserstRentedMovies initiated
+2022-06-29 15:54:46.3160 INFO GeUserstRentedMovies initiated
+2022-06-29 15:55:10.3367 INFO GeUserstRentedMovies initiated
+2022-06-29 15:55:19.3018 INFO GeUserstRentedMovies initiated
+2022-06-29 15:55:23.6964 INFO GeUserstRentedMovies initiated
+2022-06-29 15:55:28.1228 INFO GeUserstRentedMovies initiated
+2022-06-29 15:55:55.1220 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:02.6774 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:07.9210 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:25.4268 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:33.6168 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:37.0521 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:40.8631 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:44.6330 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:49.1617 INFO GeUserstRentedMovies initiated
+2022-06-29 15:56:59.2315 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:04.9135 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:10.9654 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:12.3382 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:16.8328 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:18.1766 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:20.7135 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:37.2921 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:49.2983 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:53.9171 INFO GeUserstRentedMovies initiated
+2022-06-29 15:57:56.3709 INFO GeUserstRentedMovies initiated
+2022-06-29 15:58:03.1298 INFO GeUserstRentedMovies initiated
+2022-06-29 15:58:06.5334 INFO GeUserstRentedMovies initiated
+2022-06-29 15:58:49.1387 INFO GeUserstRentedMovies initiated
+2022-06-29 15:59:11.5179 INFO GeUserstRentedMovies initiated
+2022-06-29 15:59:14.8666 INFO GeUserstRentedMovies initiated
+2022-06-29 15:59:40.9019 INFO GeUserstRentedMovies initiated
+2022-06-29 15:59:47.2796 INFO GeUserstRentedMovies initiated
+2022-06-29 15:59:56.8122 INFO GeUserstRentedMovies initiated
+2022-06-29 16:00:00.3823 INFO GeUserstRentedMovies initiated
+2022-06-29 16:00:10.7930 INFO GeUserstRentedMovies initiated
+2022-06-29 16:00:11.9366 INFO GeUserstRentedMovies initiated
+2022-06-29 16:00:26.8510 INFO GeUserstRentedMovies initiated
+2022-06-29 16:00:33.2580 INFO GeUserstRentedMovies initiated
+2022-06-29 16:00:36.7927 INFO GeUserstRentedMovies initiated
+2022-06-29 16:00:40.3500 INFO GeUserstRentedMovies initiated
+2022-06-29 16:00:52.9714 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:05.7291 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:09.9489 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:15.2552 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:16.3186 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:25.1260 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:31.3919 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:50.8983 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:53.6831 INFO GeUserstRentedMovies initiated
+2022-06-29 16:01:59.3710 INFO GeUserstRentedMovies initiated
+2022-06-29 16:02:05.8670 INFO GeUserstRentedMovies initiated
+2022-06-29 16:02:10.0245 INFO GeUserstRentedMovies initiated
+2022-06-29 16:02:49.3300 INFO GeUserstRentedMovies initiated
+2022-06-29 16:02:55.5321 INFO GeUserstRentedMovies initiated
+2022-06-29 16:03:07.5606 INFO GeUserstRentedMovies initiated
+2022-06-29 16:05:20.9408 INFO GeUserstRentedMovies initiated
+2022-06-29 16:05:30.2374 INFO GeUserstRentedMovies initiated
+2022-06-29 16:05:40.9186 INFO GeUserstRentedMovies initiated
+2022-06-29 16:05:44.3988 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:00.6913 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:28.6938 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:37.0518 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:41.6611 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:44.6973 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:46.4765 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:49.0848 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:50.3313 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:52.0833 INFO GeUserstRentedMovies initiated
+2022-06-29 16:06:56.6205 INFO GeUserstRentedMovies initiated
+2022-06-29 16:07:01.4401 INFO GeUserstRentedMovies initiated
+2022-06-29 16:07:06.0868 INFO GeUserstRentedMovies initiated
+2022-06-29 16:07:20.5045 INFO GeUserstRentedMovies initiated
+2022-06-29 16:07:25.3613 INFO GeUserstRentedMovies initiated
+2022-06-29 16:07:33.4010 INFO GeUserstRentedMovies initiated
+2022-06-29 16:07:40.1989 INFO GeUserstRentedMovies initiated
+2022-06-29 16:07:47.2387 INFO GeUserstRentedMovies initiated
+2022-06-29 16:09:02.3369 INFO GeUserstRentedMovies initiated
+2022-06-29 16:09:12.3565 INFO GeUserstRentedMovies initiated
+2022-06-29 16:17:29.4929 INFO GetMoviesList initiated
+2022-06-29 16:17:29.5548 WARN Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'
+2022-06-29 16:20:07.3978 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 16:20:07.4450 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 16:20:07.4599 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-29 16:22:14.0657 INFO GeUserstRentedMovies initiated
+2022-06-29 16:22:54.0269 INFO GeUserstRentedMovies initiated
+2022-06-29 16:23:01.1251 INFO GeUserstRentedMovies initiated
+2022-06-29 16:23:28.7567 INFO GeUserstRentedMovies initiated
+2022-06-29 16:23:40.1001 INFO GeUserstRentedMovies initiated
+2022-06-29 16:23:41.0338 INFO GeUserstRentedMovies initiated
+2022-06-29 16:23:42.4956 INFO GeUserstRentedMovies initiated
+2022-06-29 16:23:53.9977 INFO GeUserstRentedMovies initiated
+2022-06-29 16:24:05.6119 INFO GeUserstRentedMovies initiated
+2022-06-29 16:24:19.2597 INFO GeUserstRentedMovies initiated
+2022-06-29 16:24:28.7218 INFO GeUserstRentedMovies initiated
+2022-06-29 16:24:34.0815 INFO GeUserstRentedMovies initiated
+2022-06-29 16:24:53.5648 INFO GeUserstRentedMovies initiated
+2022-06-29 16:24:59.0992 INFO GeUserstRentedMovies initiated
+2022-06-29 16:25:11.4701 INFO GeUserstRentedMovies initiated
+2022-06-29 16:25:12.9252 INFO GeUserstRentedMovies initiated
+2022-06-29 16:25:26.4754 INFO GeUserstRentedMovies initiated
+2022-06-29 16:25:30.8469 INFO GeUserstRentedMovies initiated
+2022-06-29 16:26:24.1366 INFO GeUserstRentedMovies initiated
+2022-06-29 16:26:26.7854 INFO GeUserstRentedMovies initiated
+2022-06-29 16:26:38.4241 INFO GeUserstRentedMovies initiated
+2022-06-29 16:29:34.4058 INFO GeUserstRentedMovies initiated
+2022-06-29 16:30:26.9310 INFO GeUserstRentedMovies initiated
+2022-06-29 16:30:41.6900 INFO GeUserstRentedMovies initiated

@@ -1,0 +1,77 @@
+<div class="kartica">
+  <div class="">
+    <div class="row justify-content-center">
+      <div class="card-profile-image holderslika">
+        <img
+          (click)="openDialog(puser)"
+          *ngIf="this.user.photos != null"
+          src="{{ user.photos.url }}"
+          class="rounded-circle slika"
+        />
+        <img
+          (click)="openDialog(puser)"
+          *ngIf="this.user.photos == null"
+          src="assets/NoImage.png"
+          class="rounded-circle slika"
+        />
+      </div>
+    </div>
+    <div class="card-header text-center">
+      <div class="justify-content-between">
+        <a routerLink="/contact" class="btn btn-sm  mr-4"
+          >Kontaktirajte podršku</a
+        >
+      </div>
+    </div>
+    <form [formGroup]="updateForm" (submit)="updateUser()" novalidate>
+      <div class="card-body pt-0 col-md-12">
+        <div class="form-row">
+          <div class="col-sm-12 col-form-label text-center">
+            <mat-form-field class="forma">
+              <input
+                matInput
+                placeholder="Novo korisničko ime"
+                formControlName="newUsername"
+              />
+              <mat-icon matPrefix>mode_edit</mat-icon>
+            </mat-form-field>
+            <mat-form-field class="forma">
+              <input
+                matInput
+                type="email"
+                placeholder="Nova email adresa"
+                formControlName="email"
+              />
+              <mat-icon matPrefix>alternate_email</mat-icon>
+            </mat-form-field>
+          </div>
+        </div>
+        <div class="col-sm-12 text-center">
+          <mat-form-field class="forma">
+            <input
+              matInput
+              type="password"
+              placeholder="Stara lozinka"
+              formControlName="currentPassword"
+            />
+            <mat-icon matPrefix>lock</mat-icon>
+          </mat-form-field>
+          <mat-form-field class="forma">
+            <input
+              matInput
+              type="password"
+              placeholder="Nova lozinka"
+              formControlName="newPassword"
+            />
+            <mat-icon matPrefix>lock_open</mat-icon>
+          </mat-form-field>
+        </div>
+        <div class="col-sm-12 text-center">
+          <button class="btn" mat-raised-button color="primary" type="submit">
+            Uredi
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

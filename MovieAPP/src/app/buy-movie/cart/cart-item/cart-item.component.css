@@ -1,0 +1,41 @@
+.slika{
+    position: relative;
+    width: 70px;
+    height: 90px;
+    left:25%;
+    margin-top:20%; 
+    border-radius: 1px;
+}
+.delete{
+    color:red;
+}
+.red{
+    margin-top:21%;
+    margin-bottom:20%
+}
+.red2{
+    margin-top:18%;
+    margin-bottom:22%
+}
+.red3{
+    margin-top:24%;
+    margin-bottom:16%
+}
+
+@media (max-width: 768px) {
+    .display{
+        display:none
+    }
+    .red{
+        margin-top:10%;
+        margin-bottom:10%
+    }
+    .red2{
+        margin-top:10%;
+        margin-bottom:10%
+    }
+    .red3{
+        margin-top:10%;
+        margin-bottom:10%
+    }
+  }

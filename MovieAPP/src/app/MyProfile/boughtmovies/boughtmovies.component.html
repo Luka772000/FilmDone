@@ -1,0 +1,30 @@
+<div class="display" *appHasRole="['Member']">
+  <table class="mat-elevation-z8 table">
+    <thead>
+      <tr>
+        <th>Poster</th>
+        <th>Ime</th>
+        <th>Cijena</th>
+        <th>Ukloni</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let movie of movies" app-bought-movie [movie]="movie"></tr>
+    </tbody>
+  </table>
+</div>
+<div class="display" *appHasRole="['Moderator']">
+  <table class="mat-elevation-z8 table">
+    <thead>
+      <tr>
+        <th>Poster</th>
+        <th>Ime</th>
+        <th>Cijena</th>
+        <th class="akcije" colspan="3">Akcije</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let movie of movies" app-bought-movie [movie]="movie"></tr>
+    </tbody>
+  </table>
+</div>

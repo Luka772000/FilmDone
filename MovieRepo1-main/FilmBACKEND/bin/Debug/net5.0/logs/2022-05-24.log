@@ -1,0 +1,188 @@
+2022-05-24 13:52:16.3270 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 13:52:16.3623 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 13:52:16.3623 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 13:54:50.0748 INFO GetMoviesList initiated
+2022-05-24 13:55:00.4510 INFO AddMovie initiated
+2022-05-24 13:55:00.6455 ERROR An unhandled exception has occurred while executing the request.
+2022-05-24 13:55:04.6552 INFO GetMoviesList initiated
+2022-05-24 13:55:18.3130 INFO RentMovie initiated
+2022-05-24 13:55:18.4161 ERROR Exception Caught
+2022-05-24 13:55:33.5611 INFO GetMoviesList initiated
+2022-05-24 13:58:33.9490 INFO RentMovie initiated
+2022-05-24 13:58:34.0015 ERROR Exception Caught
+2022-05-24 13:58:37.4218 INFO RentMovie initiated
+2022-05-24 13:58:37.4728 ERROR Exception Caught
+2022-05-24 13:59:02.5240 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 13:59:02.5569 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 13:59:02.5569 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 13:59:28.9400 INFO RentMovie initiated
+2022-05-24 13:59:29.3187 ERROR Exception Caught
+2022-05-24 14:00:06.2051 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 14:00:06.2326 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 14:00:06.2378 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 14:01:34.0903 ERROR An unhandled exception has occurred while executing the request.
+2022-05-24 15:03:34.6664 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:03:34.7118 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:03:34.7118 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:03:54.3822 INFO RentMovie initiated
+2022-05-24 15:03:54.4866 ERROR An exception occurred while iterating over the results of a query for context type 'FilmBACKEND.Models.Context'.
+System.InvalidOperationException: Invalid attempt to call ReadAsync when reader is closed.
+   at Microsoft.Data.Common.ADP.ExceptionWithStackTrace(Exception e)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2022-05-24 15:04:45.8614 INFO GetMoviesList initiated
+2022-05-24 15:05:41.8886 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:05:41.9169 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:05:41.9169 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:05:51.2150 INFO GetMoviesList initiated
+2022-05-24 15:06:23.8770 INFO RentMovie initiated
+2022-05-24 15:07:11.1501 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:07:11.1887 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:07:11.1934 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:07:24.6937 INFO RentMovie initiated
+2022-05-24 15:07:33.6272 INFO GetMoviesList initiated
+2022-05-24 15:08:54.8909 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:08:54.9247 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:08:54.9287 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:09:02.5363 INFO GetMoviesList initiated
+2022-05-24 15:43:23.0137 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:43:23.0579 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:43:23.0661 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 15:43:39.7405 INFO GetMoviesList initiated
+2022-05-24 15:44:10.9091 INFO UnRentMovie initiated
+2022-05-24 15:44:16.1800 INFO GetMoviesList initiated
+2022-05-24 16:14:35.4566 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:14:35.4871 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:14:35.4871 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:14:45.4405 INFO RentMovie initiated
+2022-05-24 16:14:50.9245 INFO GetMoviesList initiated
+2022-05-24 16:29:01.4127 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:29:01.4418 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:29:01.4418 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:52:41.8795 INFO GetRentedMovies initiated
+2022-05-24 16:53:25.1271 INFO AddMovie initiated
+2022-05-24 16:53:25.1791 ERROR An unhandled exception has occurred while executing the request.
+2022-05-24 16:53:33.9764 INFO GetMoviesList initiated
+2022-05-24 16:53:37.9963 INFO GetRentedMovies initiated
+2022-05-24 16:53:41.0782 INFO GetRentedMovies initiated
+2022-05-24 16:54:07.9721 INFO RentMovie initiated
+2022-05-24 16:54:11.6858 INFO GetRentedMovies initiated
+2022-05-24 16:55:14.4567 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:55:14.4811 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:55:14.4811 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 16:55:19.3947 INFO GetMoviesList initiated
+2022-05-24 16:55:35.9998 INFO GetRentedMovies initiated
+2022-05-24 18:00:15.5858 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:00:15.6344 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:00:15.6344 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:00:29.4718 INFO GeUserstRentedMovies initiated
+2022-05-24 18:00:40.9172 INFO GeUserstRentedMovies initiated
+2022-05-24 18:00:48.8297 INFO GeUserstRentedMovies initiated
+2022-05-24 18:00:56.0548 INFO GetRentedMovies initiated
+2022-05-24 18:01:10.4196 INFO GetMoviesList initiated
+2022-05-24 18:01:45.9398 INFO UnRentMovie initiated
+2022-05-24 18:01:46.2462 ERROR Failed executing DbCommand (26ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Movies] SET [RenterId] = @p0
+WHERE [Id] = @p1;
+SELECT @@ROWCOUNT;
+2022-05-24 18:01:46.3108 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Movies_AspNetUsers_RenterId". The conflict occurred in database "Film", table "dbo.AspNetUsers", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:7b8bc490-d09e-4618-87f2-4bcb4ecda7ac
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-05-24 18:01:46.4355 ERROR Exception Caught
+2022-05-24 18:02:10.7715 INFO GetRentedMovies initiated
+2022-05-24 18:02:27.8927 INFO UnRentMovie initiated
+2022-05-24 18:02:27.9332 ERROR Failed executing DbCommand (10ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Movies] SET [RenterId] = @p0
+WHERE [Id] = @p1;
+SELECT @@ROWCOUNT;
+2022-05-24 18:02:27.9332 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Movies_AspNetUsers_RenterId". The conflict occurred in database "Film", table "dbo.AspNetUsers", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:7b8bc490-d09e-4618-87f2-4bcb4ecda7ac
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-05-24 18:02:28.0009 ERROR Exception Caught
+2022-05-24 18:02:36.1346 INFO GetMoviesList initiated
+2022-05-24 18:05:27.9592 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:05:28.0005 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:05:28.0100 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:08:51.7745 INFO UnRentMovie initiated
+2022-05-24 18:08:52.2327 ERROR Failed executing DbCommand (56ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Movies] SET [RenterId] = @p0
+WHERE [Id] = @p1;
+SELECT @@ROWCOUNT;
+2022-05-24 18:08:52.2850 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Movies_AspNetUsers_RenterId". The conflict occurred in database "Film", table "dbo.AspNetUsers", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:ece61a98-7068-4fd2-abfe-7650ea2944fe
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-05-24 18:08:52.3982 ERROR Exception Caught
+2022-05-24 18:09:03.7405 INFO UnRentMovie initiated
+2022-05-24 18:17:17.1507 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:17:17.1960 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:17:17.1960 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-24 18:17:58.1568 INFO UnRentMovie initiated

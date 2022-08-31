@@ -1,0 +1,17 @@
+<form [formGroup]="updateForm" autocomplete="off" class="form">
+    <div class="col-md-12 form-group">
+        <mat-form-field class="forma">
+            <input matInput placeholder="Ime" formControlName="newName" required>
+            <mat-icon matPrefix>mode_edit</mat-icon>
+        </mat-form-field>
+    </div>
+    <div class="col-md-12 form-group">
+        <mat-form-field class="forma">
+            <input matInput placeholder="Cijena" formControlName="price" required>
+            <mat-icon matPrefix>lock</mat-icon>
+        </mat-form-field>
+    </div>
+    <div class="col-md-12 form-group text-center ">
+        <button mat-raised-button color="primary" (click)="updateMovie()">Uredi</button>
+    </div>
+</form>

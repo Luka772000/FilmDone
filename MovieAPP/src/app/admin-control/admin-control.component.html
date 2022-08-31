@@ -1,0 +1,24 @@
+<div class="fontic marginaTop">
+    <table class="tablee">
+        <tbody>
+            <tr>
+                <th class="redic" style="width: 30%;">Korisničko ime</th>
+                <th class="redic" style="width: 40%;">Aktivne uloge</th>
+                <th class="redic" style="width: 30%;">
+                    <mat-form-field>
+                        <input id="searchText" matInput name="search" type="search" placeholder="Pretraži..."
+                            [(ngModel)]="searchText" class="search-input">
+                    </mat-form-field>
+                </th>
+            </tr>
+            <tr *ngFor="let user of users | appFilter1:searchText">
+                <td class="redic">{{user.username}}</td>
+                <td class="redic">{{user.roles}}</td>
+                <td class="redic"><button (click)="openRolesModal(user)" class="btn btn-info">Uredi uloge</button>
+                    <mat-icon (click)="openDialog(user.username)" class="trash">delete_forever</mat-icon>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>

@@ -1,0 +1,38 @@
+<ng-container *appHasRole="['Member']" class="mem">
+  <td class="display">
+    <img class="slika" src="{{ movieDetails['Poster'] }}" />
+  </td>
+  <td>
+    <div class="red">{{ movie.name | uppercase }}</div>
+  </td>
+  <td>
+    <div class="red2">{{ movie.price }}KM</div>
+  </td>
+  <td>
+    <div class="red3">
+      <mat-icon (click)="unrentMovie()">delete</mat-icon>
+    </div>
+  </td>
+</ng-container>
+<ng-container *appHasRole="['Moderator']">
+  <td class="display">
+    <img class="slika" src="{{ movieDetails['Poster'] }}" />
+  </td>
+  <td>
+    <div class="red">{{ movie.name | uppercase }}</div>
+  </td>
+  <td>
+    <div class="red2">{{ movie.price }} KM</div>
+  </td>
+  <td>
+    <mat-icon (click)="openDialog(movie)">edit</mat-icon>
+  </td>
+  <td>
+    <div class="red3">
+      <mat-icon (click)="deleteMovie(movie.id)">delete</mat-icon>
+    </div>
+  </td>
+  <td>
+    <mat-icon (click)="openActorDialog(movie)">add_box</mat-icon>
+  </td>
+</ng-container>

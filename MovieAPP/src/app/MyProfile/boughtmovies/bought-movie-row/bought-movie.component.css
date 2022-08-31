@@ -1,0 +1,11 @@
+.slika {
+    width: 50px;
+    height: 70px;
+    position: relative;
+    margin-top: 2px;
+    margin-left: 17%
+}
+
+.mem {
+    margin: none;
+}

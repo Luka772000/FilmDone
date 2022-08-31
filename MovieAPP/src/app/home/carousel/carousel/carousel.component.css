@@ -1,0 +1,60 @@
+
+  
+  ngb-carousel img {
+    width: 100%;
+    height: 100%;
+    outline: none;
+    padding: none;
+}
+  
+  ngb-carousel {
+    min-width: 50vw;
+    flex: 1;
+    border-radius: 10px;
+    text-align: center;
+    
+  }
+  
+    .carousel-inner {
+    overflow: visible;
+  }
+  
+  .carousel-item {
+    display: flex !important;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1.2s ease, visibility 1.2s;
+    z-index: -1;
+  }
+  
+  .carousel-item.active{
+    opacity: 1;
+    visibility: visible;
+    z-index: 10;
+  }
+  .carousel-control-prev {
+     z-index: 20;
+  }
+  
+  .carousel-control-next {
+     z-index: 20;
+  }
+  
+  .carousel-indicators{
+    z-index: 20;
+  }
+  .card{
+      width: 150px;
+      height:200px;
+      background-color: rgba(0, 136, 255, 0);
+      border:none
+  }
+  .row{justify-content: center; text-align: center}
+
+  @media (max-width: 768px) {
+    .card{
+      width: 250px;
+      height:300px;
+      margin-bottom:2px
+    }
+  }

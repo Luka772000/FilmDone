@@ -1,0 +1,99 @@
+<div class="pozadina">
+    <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        viewBox="0 -50 150 120" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+            <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+            <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(24, 45, 77,0.7" />
+            <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(24, 45, 77,0.5)" />
+            <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(24, 45, 77,0.3)" />
+            <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(24, 45, 77)" />
+        </g>
+    </svg>
+</div>
+<div class="rowic">
+    <div class=" text-center prvired">
+        <span class="welcome">
+            Dobrodošli!
+        </span>
+        <br>
+        <br>
+        <span class="welcome2"> Ovdje unesite svoje podatke kako bi ste se ulogirali</span>
+    </div>
+</div>
+
+
+
+<div class="rowic">
+    <div class="card" *ngIf="loginOrRegister==true">
+        <div class="card-body">
+            <div class="row3 text-center">
+                <h3 class="row3">LOGIN</h3>
+            </div>
+            <form #loginForm="ngForm" (ngSubmit)="login()" autocomplete="off">
+                <div class="col-md-12 form-group">
+                    <mat-form-field class="forma">
+                        <input matInput placeholder="Korisničko ime" name="username" [(ngModel)]="model.username"
+                            required>
+                        <mat-icon matPrefix>mode_edit</mat-icon>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-12 form-group">
+                    <mat-form-field class="forma">
+                        <input matInput placeholder="Lozinka" name="password" [(ngModel)]="model.password"
+                            type="password" required>
+                        <mat-icon matPrefix>lock</mat-icon>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-12 form-group text-center">
+                    <button mat-raised-button color="primary" type="submit">Ulogiraj se</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+    <div class="card" *ngIf="loginOrRegister==false">
+        <div class="card-body">
+            <div class="row3 text-center">
+                <h3 class="row3">REGISTRACIJA</h3>
+            </div>
+            <form #registerForm="ngForm" (ngSubmit)="register()" autocomplete="off">
+                <div class="col-md-12 form-group">
+                    <mat-form-field class="forma">
+                        <input matInput placeholder="Korisničko ime" name="username" [(ngModel)]="model.username"
+                            required>
+                        <mat-icon matPrefix>mode_edit</mat-icon>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-12 form-group">
+                    <mat-form-field class="forma">
+                        <input matInput placeholder="Lozinka" name="password" [(ngModel)]="model.password"
+                            type="password" required>
+                        <mat-icon matPrefix>lock</mat-icon>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-12 form-group">
+                    <mat-form-field class="forma">
+                        <input matInput placeholder="Email" name="email" [(ngModel)]="model.email" type="email"
+                            required>
+                        <mat-icon matPrefix>lock</mat-icon>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-12 form-group text-center ">
+                    <button mat-raised-button color="primary" type="submit">Registriraj se</button>
+
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>
+<div class="row2" *ngIf="loginOrRegister == true">
+    <div class="text-center">
+        <a style="text-decoration:none" (click)="changeReg()">
+            <h3 class="row2">Nemate račun? Registrirajte se.</h3>
+        </a>
+    </div>
+</div>

@@ -1,0 +1,60 @@
+.marginaTop {
+    margin-top: 10%;
+}
+
+.tablee {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 100% !important;
+
+}
+
+tbody {
+    background-color: rgba(255, 255, 255, 0);
+
+}
+
+.trash {
+    font-size: 30px;
+    vertical-align: middle;
+    color: red;
+
+}
+
+.redic {
+    vertical-align: middle;
+    justify-self: center;
+    border-color: rgb(99, 99, 99);
+    border-width: 1px;
+    text-align: center; 
+    background-color: rgb(116, 116, 116);  
+}
+
+::ng-deep .mat-form-field-label {
+    color: rgb(255, 255, 255) !important;
+}
+
+::ng-deep.mat-form-field-underline {
+    /*change color of underline*/
+    background-color: rgb(255, 255, 255) !important;
+}
+
+::ng-deep .mat-form-field-value {
+    color: rgb(255, 255, 255) !important;
+}
+
+::ng-deep .mat-form-field-input {
+    color: rgb(255, 255, 255) !important;
+}
+
+::ng-deep .mat-input-element::placeholder {
+    color: rgb(244, 244, 244)
+}
+
+@media screen and (max-width: 768px) {
+    .tablee {
+        width: 100%;
+        margin-left: -8px
+    }
+}

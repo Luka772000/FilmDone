@@ -1,0 +1,32 @@
+<form [formGroup]="actorForm" autocomplete="off" class="form">
+  <div class="col-md-12 form-group">
+    <mat-form-field class="forma">
+      <input
+        matInput
+        placeholder="Ime uloge"
+        formControlName="rolename"
+        required
+      />
+    </mat-form-field>
+  </div>
+  <div class="col-md-12 form-group">
+    <mat-form-field class="forma">
+      <input
+        matInput
+        placeholder="Ime glumca"
+        formControlName="actorname"
+        required
+      />
+    </mat-form-field>
+  </div>
+  <div class="col-md-12 form-group text-center butonic">
+    <button
+      mat-raised-button
+      color="primary"
+      type="submit"
+      (click)="postMovieRole()"
+    >
+      Dodaj ulogu
+    </button>
+  </div>
+</form>

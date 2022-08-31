@@ -1,0 +1,13 @@
+<mat-card class="example-card">
+    <mat-card-content class="content">
+        <img class="slika" mat-card-image src="{{movieDetails['Poster']}}">
+        {{movie.name | uppercase}}
+
+    </mat-card-content>
+    <mat-card-actions>
+        <button class="button" (click)="addToCart(movie)" mat-raised-button>DODAJ U KOŠARU <mat-icon>add_shopping_cart
+            </mat-icon></button><button (click)="openModal(movieDetails,movie)" class="button" mat-raised-button>
+            <mat-icon class="ikona">info</mat-icon>
+        </button>
+    </mat-card-actions>
+</mat-card>

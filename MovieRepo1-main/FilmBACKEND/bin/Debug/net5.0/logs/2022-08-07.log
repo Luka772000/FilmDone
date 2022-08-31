@@ -1,0 +1,165 @@
+2022-08-07 14:51:47.4696 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 14:51:47.5122 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 14:51:47.5243 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 14:52:17.8585 INFO CreateMovieRole initiated
+2022-08-07 14:52:18.0742 ERROR Exception Caught
+2022-08-07 17:18:09.6400 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:18:09.6688 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:18:09.6688 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:18:11.6161 INFO CreateMovieRole initiated
+2022-08-07 17:18:11.8839 ERROR Exception Caught
+2022-08-07 17:28:46.7595 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:28:46.7930 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:28:46.7930 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:28:49.6190 INFO CreateMovieRole initiated
+2022-08-07 17:28:49.8735 ERROR Exception Caught
+2022-08-07 17:28:50.9616 INFO CreateMovieRole initiated
+2022-08-07 17:28:51.0532 ERROR Exception Caught
+2022-08-07 17:28:54.3133 INFO CreateMovieRole initiated
+2022-08-07 17:28:54.3745 ERROR Exception Caught
+2022-08-07 17:28:57.8678 INFO CreateMovieRole initiated
+2022-08-07 17:29:05.7068 INFO CreateMovieRole initiated
+2022-08-07 17:29:05.7717 ERROR Exception Caught
+2022-08-07 17:33:11.1397 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:33:11.1734 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:33:11.1734 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:34:57.6306 INFO CreateMovieRole initiated
+2022-08-07 17:34:57.8963 ERROR Exception Caught
+2022-08-07 17:34:59.9538 INFO CreateMovieRole initiated
+2022-08-07 17:35:00.0540 ERROR Exception Caught
+2022-08-07 17:41:14.4464 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:41:14.4835 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:41:14.4835 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:43:37.8587 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:43:37.8906 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:43:37.8958 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:43:48.6837 INFO CreateMovieRole initiated
+2022-08-07 17:43:49.0975 ERROR Exception Caught
+2022-08-07 17:44:24.5082 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:44:24.5386 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:44:24.5386 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:44:26.0102 INFO CreateMovieRole initiated
+2022-08-07 17:44:26.2849 ERROR Exception Caught
+2022-08-07 17:47:25.4130 INFO CreateMovieRole initiated
+2022-08-07 17:47:25.5122 ERROR Exception Caught
+2022-08-07 17:47:34.4925 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:47:34.5238 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:47:34.5238 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:47:36.9479 INFO CreateMovieRole initiated
+2022-08-07 17:47:37.1998 ERROR Exception Caught
+2022-08-07 17:48:53.3158 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:48:53.3613 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:48:53.3652 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:48:54.2712 INFO CreateMovieRole initiated
+2022-08-07 17:48:54.5658 ERROR Exception Caught
+2022-08-07 17:48:56.6574 INFO CreateMovieRole initiated
+2022-08-07 17:48:56.7439 ERROR Exception Caught
+2022-08-07 17:48:57.8406 INFO CreateMovieRole initiated
+2022-08-07 17:48:57.9045 ERROR Exception Caught
+2022-08-07 17:49:20.8479 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:49:20.8848 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:49:20.8848 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:49:25.5988 INFO CreateMovieRole initiated
+2022-08-07 17:49:25.8465 ERROR Exception Caught
+2022-08-07 17:49:57.2698 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:49:57.3092 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:49:57.3092 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:49:58.6714 INFO CreateMovieRole initiated
+2022-08-07 17:49:58.9827 ERROR Exception Caught
+2022-08-07 17:52:05.1648 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:52:05.1975 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:52:05.1975 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 17:52:36.0276 INFO CreateMovieRole initiated
+2022-08-07 17:52:36.4329 ERROR Exception Caught
+2022-08-07 18:00:31.9347 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:00:31.9670 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:00:31.9734 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:00:36.1076 INFO CreateMovieRole initiated
+2022-08-07 18:00:36.4309 ERROR Exception Caught
+2022-08-07 18:14:02.0554 INFO CreateMovieRole initiated
+2022-08-07 18:14:02.2131 ERROR Exception Caught
+2022-08-07 18:21:06.5253 INFO GetRoles initiated
+2022-08-07 18:21:33.0530 INFO CreateMovieRole initiated
+2022-08-07 18:21:37.7936 INFO GetRoles initiated
+2022-08-07 18:26:27.8664 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:26:27.8911 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:26:27.8911 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:26:34.4147 INFO CreateMovieRole initiated
+2022-08-07 18:26:34.6836 ERROR Exception Caught
+2022-08-07 18:27:19.5608 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:27:19.5964 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:27:19.5999 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:27:22.7046 INFO CreateMovieRole initiated
+2022-08-07 18:27:23.0397 ERROR Exception Caught
+2022-08-07 18:33:18.8422 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:33:18.8673 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:33:18.8673 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:33:20.4592 INFO CreateMovieRole initiated
+2022-08-07 18:33:20.7039 ERROR Exception Caught
+2022-08-07 18:34:57.9765 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:34:58.0034 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:34:58.0063 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:34:59.4261 INFO CreateMovieRole initiated
+2022-08-07 18:34:59.6834 ERROR Exception Caught
+2022-08-07 18:43:56.0227 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:43:56.0508 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:43:56.0571 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:43:57.4529 INFO CreateMovieRole initiated
+2022-08-07 18:43:57.6892 ERROR Exception Caught
+2022-08-07 18:44:44.8559 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:44:44.8849 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:44:44.8849 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:44:57.8745 INFO CreateMovieRole initiated
+2022-08-07 18:44:58.1291 ERROR Exception Caught
+2022-08-07 18:45:56.1843 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:45:56.2328 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:45:56.2328 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:45:56.8772 INFO CreateMovieRole initiated
+2022-08-07 18:45:57.1907 ERROR Exception Caught
+2022-08-07 18:46:07.8944 INFO CreateMovieRole initiated
+2022-08-07 18:46:08.0057 ERROR Exception Caught
+2022-08-07 18:46:12.6769 INFO CreateMovieRole initiated
+2022-08-07 18:46:12.7421 ERROR Exception Caught
+2022-08-07 18:47:13.8355 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-07 18:47:14.6462 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:47:14.6462 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:47:14.6462 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:47:15.9785 INFO CreateMovieRole initiated
+2022-08-07 18:47:16.2538 ERROR Exception Caught
+2022-08-07 18:48:57.4330 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-07 18:48:58.2329 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:48:58.2329 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:48:58.2329 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 18:48:59.4389 INFO CreateMovieRole initiated
+2022-08-07 18:48:59.7318 ERROR Exception Caught
+2022-08-07 18:49:03.0378 INFO CreateMovieRole initiated
+2022-08-07 18:49:03.1335 ERROR Exception Caught
+2022-08-07 18:56:59.9387 INFO CreateMovieRole initiated
+2022-08-07 18:57:00.1198 ERROR Exception Caught
+2022-08-07 18:57:47.0519 INFO GetRoles initiated
+2022-08-07 18:59:01.3028 INFO GeUserstRentedMovies initiated
+2022-08-07 19:12:47.1831 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-07 19:12:48.6654 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 19:12:48.6654 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 19:12:48.6786 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 19:13:11.9243 INFO GeUserstRentedMovies initiated
+2022-08-07 19:13:17.4850 INFO GetUnRentedMovies initiated
+2022-08-07 19:13:31.7913 INFO GetUnRentedMovies initiated
+2022-08-07 19:13:53.1724 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-07 19:13:54.8226 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 19:13:54.8226 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 19:13:54.8340 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-07 19:13:55.9917 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:03.6074 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:03.6147 INFO GetUnRentedMovies initiated
+2022-08-07 19:14:11.4057 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:12.1257 INFO GetUnRentedMovies initiated
+2022-08-07 19:14:13.3096 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:13.3183 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:13.3183 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:19.5865 INFO GetUnRentedMovies initiated
+2022-08-07 19:14:22.4851 INFO RentMovie initiated
+2022-08-07 19:14:24.0239 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:24.0239 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:24.0239 INFO GeUserstRentedMovies initiated
+2022-08-07 19:14:39.9688 INFO GetUnRentedMovies initiated

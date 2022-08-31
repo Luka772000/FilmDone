@@ -1,0 +1,12 @@
+<div class="holder">
+    <h4>Radnja filma</h4>
+    <p>{{movieDetails['Plot']}}</p>
+    <h4>Direktor</h4>
+    <p>{{movieDetails['Director']}}</p>
+    <h4>Glumci</h4>
+    <p>{{movieDetails['Actors']}}</p>
+    <h4>IMDB rating</h4>
+    <p>{{movieDetails['imdbRating']}}</p>
+    <h4 *ngIf="movieRoles?.length">Uloge</h4>
+    <p *ngFor="let movieRole of movieRoles">{{movieRole.roleName}} - {{movieRole.actor.name}}</p>
+</div>

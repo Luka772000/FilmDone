@@ -1,0 +1,12 @@
+<td class="display"><img class="slika" mat-card-image src="{{movieDetails['Poster']}}"></td>
+<td>
+    <div class="red">{{movie.name | uppercase}}</div>
+</td>
+<td>
+    <div class="red2">{{movie.price}}KM</div>
+</td>
+<td>
+    <div class="red3">
+        <mat-icon class="delete" (click)="this.CartService.removeItem(movie)">delete</mat-icon>
+    </div>
+</td>

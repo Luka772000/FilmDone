@@ -1,0 +1,32 @@
+<div class="container">
+    <h1>Košara je prazna</h1>
+    <table class="mat-elevation-z8 table" *ngIf="prikaz">
+        <thead>
+            <tr>
+                <th class="slikaHeader">Slika</th>
+                <th>Naziv</th>
+                <th>Cijena</th>
+                <th>Ukloni</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let movie of movies" app-cart-item [movie]="movie" class="row2">
+            </tr>
+            <tr >
+                <td class="slikaHeader">
+
+                </td>
+                <td>
+
+                </td>
+                <td class="red">
+                    UKUPNA CIJENA: {{total}}KM
+                </td>
+                <td>
+                    <button (click)="buyMovies()" mat-raised-button class="warning">KUPI <mat-icon class="card">
+                            credit_card</mat-icon></button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

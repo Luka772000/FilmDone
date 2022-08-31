@@ -1,0 +1,42 @@
+.karticaholder {
+    margin-top: 15px;
+    ;
+    width: 33%;
+    height: 100%;
+    text-align: center;
+    display: inline-block !important
+}
+
+.search {
+    text-align: center;
+    position: relative
+}
+
+::ng-deep .mat-form-field-label {
+    color: rgb(255, 255, 255) !important;
+}
+
+::ng-deep.mat-form-field-underline {
+
+    background-color: rgb(255, 255, 255) !important;
+}
+
+::ng-deep .mat-form-field-value {
+    color: rgb(255, 255, 255) !important;
+}
+
+::ng-deep .mat-form-field-input {
+    color: rgb(255, 255, 255) !important;
+}
+
+::ng-deep .mat-input-element::placeholder {
+    color: rgb(255, 255, 255)
+}
+
+@media (max-width: 768px) {
+    .karticaholder {
+        width: 49%;
+        height: 100%;
+        margin-left: 1%
+    }
+}

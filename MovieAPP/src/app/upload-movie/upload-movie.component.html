@@ -1,0 +1,59 @@
+<mat-stepper linear #stepper>
+  <mat-step [stepControl]="uploadForm" [editable]=true>
+    <form [formGroup]="uploadForm" novalidate>
+      <mat-card class="cardic">
+        <mat-card-header>
+          <mat-card-title>Unesite detalje svog filma</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <div class="col">
+            <mat-form-field class="forma">
+              <input matInput placeholder="Ime" formControlName="name">
+            </mat-form-field>
+          </div>
+          <div class="col">
+            <mat-form-field class="forma">
+              <input matInput placeholder="Cijena" formControlName="price">
+            </mat-form-field>
+          </div>
+        </mat-card-content>
+        <button mat-raised-button matStepperNext (click)="getDetails()" class="right" [disabled]="uploadForm.invalid"
+          color="primary">Dalje</button>
+      </mat-card>
+    </form>
+  </mat-step>
+  <mat-step [editable]=true>
+    <mat-card *ngIf="isShowDiv">
+      <mat-card-title>
+        <h3>Je li ovo vaš film?</h3>
+      </mat-card-title>
+      <div class="poster">
+        <img mat-card-xxl-image src="{{movieDetails['Poster']}}">
+      </div>
+
+      <mat-card-content class="contentdiv">
+        <p> <b>Glumci:</b> {{movieDetails['Actors']}}</p>
+        <p> <b>Nagrade:</b> {{movieDetails['Awards']}}</p>
+        <p> <b>Boxoffice:</b> {{movieDetails['BoxOffice']}}</p>
+        <p> <b>Zemlja:</b> {{movieDetails['Country']}}</p>
+        <p> <b>Direktor:</b> {{movieDetails['Director']}}</p>
+        <p> <b>Radnja filma:</b> {{movieDetails['Plot']}}</p>
+        <button mat-raised-button color="primary" class="left" matStepperPrevious>Nazad</button>
+        <button mat-raised-button color="primary" class="right" matStepperNext>Dalje</button>
+      </mat-card-content>
+    </mat-card>
+  </mat-step>
+  <mat-step>
+    <mat-card>
+
+      <mat-card-content class="contentdiv">
+        <div class="text-center">Potvrdite objavu ovog oglasa</div>
+
+        <div>
+          <button mat-raised-button color="primary" class="left" matStepperPrevious>Nazad</button>
+          <button mat-raised-button color="primary" class="right" (click)="postFilm()">Objava</button>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </mat-step>
+</mat-stepper>

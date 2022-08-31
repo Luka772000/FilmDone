@@ -1,0 +1,372 @@
+2022-06-10 09:10:35.2745 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 09:10:35.3812 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 09:10:35.3887 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 12:11:03.3515 WARN User password validation failed: PasswordRequiresDigit;PasswordRequiresUpper.
+2022-06-10 12:19:35.1731 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 12:19:35.2002 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 12:19:35.2002 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 12:20:17.1804 INFO GeUserstRentedMovies initiated
+2022-06-10 12:20:21.4171 INFO GeUserstRentedMovies initiated
+2022-06-10 12:20:22.6958 INFO GeUserstRentedMovies initiated
+2022-06-10 12:29:38.8725 INFO GeUserstRentedMovies initiated
+2022-06-10 12:32:55.0322 INFO GetMoviesList initiated
+2022-06-10 12:32:55.0800 WARN Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'
+2022-06-10 12:47:56.6347 INFO GeUserstRentedMovies initiated
+2022-06-10 12:47:57.7970 INFO GeUserstRentedMovies initiated
+2022-06-10 12:49:06.4911 INFO GeUserstRentedMovies initiated
+2022-06-10 12:49:10.2954 INFO GeUserstRentedMovies initiated
+2022-06-10 12:49:14.4747 INFO GeUserstRentedMovies initiated
+2022-06-10 12:49:36.2850 INFO GeUserstRentedMovies initiated
+2022-06-10 12:50:04.0666 INFO GeUserstRentedMovies initiated
+2022-06-10 12:51:07.0440 INFO GeUserstRentedMovies initiated
+2022-06-10 12:51:10.2711 INFO GeUserstRentedMovies initiated
+2022-06-10 12:51:30.0590 INFO GeUserstRentedMovies initiated
+2022-06-10 12:52:40.9759 INFO GeUserstRentedMovies initiated
+2022-06-10 12:52:43.2839 INFO GeUserstRentedMovies initiated
+2022-06-10 12:52:52.0012 INFO GeUserstRentedMovies initiated
+2022-06-10 12:52:53.4172 INFO GeUserstRentedMovies initiated
+2022-06-10 12:52:54.3496 INFO GeUserstRentedMovies initiated
+2022-06-10 12:52:58.4761 INFO GeUserstRentedMovies initiated
+2022-06-10 12:52:59.1822 INFO GeUserstRentedMovies initiated
+2022-06-10 12:53:00.5030 INFO GeUserstRentedMovies initiated
+2022-06-10 12:53:03.4055 INFO GeUserstRentedMovies initiated
+2022-06-10 12:53:07.2363 INFO GeUserstRentedMovies initiated
+2022-06-10 12:53:08.6623 INFO GeUserstRentedMovies initiated
+2022-06-10 12:53:28.8434 INFO GeUserstRentedMovies initiated
+2022-06-10 13:13:29.8038 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 13:13:29.8320 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 13:13:29.8347 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-06-10 13:19:31.4093 INFO GeUserstRentedMovies initiated
+2022-06-10 13:20:49.5492 INFO GeUserstRentedMovies initiated
+2022-06-10 13:20:53.7797 INFO GeUserstRentedMovies initiated
+2022-06-10 13:20:56.4227 INFO GeUserstRentedMovies initiated
+2022-06-10 13:24:53.3983 INFO GeUserstRentedMovies initiated
+2022-06-10 13:25:22.0666 INFO GeUserstRentedMovies initiated
+2022-06-10 14:21:54.0569 INFO GeUserstRentedMovies initiated
+2022-06-10 14:44:42.2858 INFO GeUserstRentedMovies initiated
+2022-06-10 14:53:56.2839 INFO GeUserstRentedMovies initiated
+2022-06-10 14:56:18.6345 INFO GeUserstRentedMovies initiated
+2022-06-10 14:56:21.1936 INFO GeUserstRentedMovies initiated
+2022-06-10 14:56:38.4135 INFO GeUserstRentedMovies initiated
+2022-06-10 14:56:40.1168 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:08.5052 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:09.7657 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:13.2594 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:16.8640 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:20.5548 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:29.5459 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:30.6884 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:32.7849 INFO GeUserstRentedMovies initiated
+2022-06-10 14:58:49.2671 INFO GeUserstRentedMovies initiated
+2022-06-10 15:03:19.2659 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:25.3895 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:27.8292 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:30.0712 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:32.2188 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:36.0921 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:37.7388 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:39.1802 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:42.4519 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:48.2433 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:50.2131 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:53.9224 INFO GeUserstRentedMovies initiated
+2022-06-10 15:04:57.4575 INFO GeUserstRentedMovies initiated
+2022-06-10 15:05:11.7007 INFO GeUserstRentedMovies initiated
+2022-06-10 15:05:16.8596 INFO GeUserstRentedMovies initiated
+2022-06-10 15:05:24.2250 INFO GeUserstRentedMovies initiated
+2022-06-10 15:05:34.1072 INFO GeUserstRentedMovies initiated
+2022-06-10 15:05:36.6043 INFO GeUserstRentedMovies initiated
+2022-06-10 15:05:39.4438 INFO GeUserstRentedMovies initiated
+2022-06-10 15:07:09.6915 INFO GeUserstRentedMovies initiated
+2022-06-10 15:07:12.6469 INFO GeUserstRentedMovies initiated
+2022-06-10 15:07:59.6681 INFO GeUserstRentedMovies initiated
+2022-06-10 15:09:44.3164 INFO GeUserstRentedMovies initiated
+2022-06-10 15:09:46.7038 INFO GeUserstRentedMovies initiated
+2022-06-10 15:10:23.2368 INFO GeUserstRentedMovies initiated
+2022-06-10 15:10:31.8853 INFO GeUserstRentedMovies initiated
+2022-06-10 15:10:44.0282 INFO GeUserstRentedMovies initiated
+2022-06-10 15:11:34.6794 INFO GeUserstRentedMovies initiated
+2022-06-10 15:11:43.1360 INFO GeUserstRentedMovies initiated
+2022-06-10 15:11:47.1531 INFO GeUserstRentedMovies initiated
+2022-06-10 15:12:13.2078 INFO GeUserstRentedMovies initiated
+2022-06-10 15:12:14.9862 INFO GeUserstRentedMovies initiated
+2022-06-10 15:13:51.1436 INFO GeUserstRentedMovies initiated
+2022-06-10 15:14:51.0156 INFO GeUserstRentedMovies initiated
+2022-06-10 15:14:57.3800 INFO GeUserstRentedMovies initiated
+2022-06-10 15:15:11.6770 INFO GeUserstRentedMovies initiated
+2022-06-10 15:15:15.6345 INFO GeUserstRentedMovies initiated
+2022-06-10 15:15:17.4499 INFO GeUserstRentedMovies initiated
+2022-06-10 15:15:24.1055 INFO GeUserstRentedMovies initiated
+2022-06-10 15:15:27.8124 INFO GeUserstRentedMovies initiated
+2022-06-10 15:16:13.0898 INFO GeUserstRentedMovies initiated
+2022-06-10 15:18:36.5917 INFO GeUserstRentedMovies initiated
+2022-06-10 15:19:33.4765 INFO GeUserstRentedMovies initiated
+2022-06-10 15:20:17.4564 INFO GeUserstRentedMovies initiated
+2022-06-10 15:20:21.8099 INFO GeUserstRentedMovies initiated
+2022-06-10 15:20:26.7601 INFO GeUserstRentedMovies initiated
+2022-06-10 15:20:56.4875 INFO GeUserstRentedMovies initiated
+2022-06-10 15:20:59.1477 INFO GeUserstRentedMovies initiated
+2022-06-10 15:21:07.2483 INFO GeUserstRentedMovies initiated
+2022-06-10 15:21:08.3760 INFO GeUserstRentedMovies initiated
+2022-06-10 15:21:20.6340 INFO GeUserstRentedMovies initiated
+2022-06-10 15:22:16.7667 INFO GeUserstRentedMovies initiated
+2022-06-10 15:22:27.7190 INFO GeUserstRentedMovies initiated
+2022-06-10 15:22:38.4897 INFO GeUserstRentedMovies initiated
+2022-06-10 15:22:42.3961 INFO GeUserstRentedMovies initiated
+2022-06-10 15:22:50.9548 INFO GeUserstRentedMovies initiated
+2022-06-10 15:22:55.6517 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:02.0760 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:06.9319 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:11.7829 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:22.2563 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:25.3163 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:36.0068 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:42.2801 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:45.4160 INFO GeUserstRentedMovies initiated
+2022-06-10 15:23:58.9203 INFO GeUserstRentedMovies initiated
+2022-06-10 15:24:32.7598 INFO GeUserstRentedMovies initiated
+2022-06-10 15:24:36.0472 INFO GeUserstRentedMovies initiated
+2022-06-10 15:24:40.3186 INFO GeUserstRentedMovies initiated
+2022-06-10 15:24:41.8952 INFO GeUserstRentedMovies initiated
+2022-06-10 15:24:44.3124 INFO GeUserstRentedMovies initiated
+2022-06-10 15:24:49.8212 INFO GeUserstRentedMovies initiated
+2022-06-10 15:24:51.4086 INFO GeUserstRentedMovies initiated
+2022-06-10 15:24:59.6409 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:00.6432 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:04.6110 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:07.2358 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:21.4888 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:33.0012 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:35.6486 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:39.6929 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:41.5552 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:50.3838 INFO GeUserstRentedMovies initiated
+2022-06-10 15:25:51.2701 INFO GeUserstRentedMovies initiated
+2022-06-10 15:26:26.3244 INFO GeUserstRentedMovies initiated
+2022-06-10 15:26:27.5019 INFO GeUserstRentedMovies initiated
+2022-06-10 15:26:35.3042 INFO GeUserstRentedMovies initiated
+2022-06-10 15:26:44.3848 INFO GeUserstRentedMovies initiated
+2022-06-10 15:27:00.7420 INFO GeUserstRentedMovies initiated
+2022-06-10 15:27:05.9979 INFO GeUserstRentedMovies initiated
+2022-06-10 15:27:07.7652 INFO GeUserstRentedMovies initiated
+2022-06-10 15:27:53.3702 INFO GeUserstRentedMovies initiated
+2022-06-10 15:28:25.1211 INFO GeUserstRentedMovies initiated
+2022-06-10 15:28:33.0162 INFO GeUserstRentedMovies initiated
+2022-06-10 15:28:35.2621 INFO GeUserstRentedMovies initiated
+2022-06-10 15:28:36.3728 INFO GeUserstRentedMovies initiated
+2022-06-10 15:28:47.8472 INFO GeUserstRentedMovies initiated
+2022-06-10 15:28:53.7679 INFO GeUserstRentedMovies initiated
+2022-06-10 15:28:59.7962 INFO GeUserstRentedMovies initiated
+2022-06-10 15:29:09.6161 INFO GeUserstRentedMovies initiated
+2022-06-10 15:29:18.8505 INFO GeUserstRentedMovies initiated
+2022-06-10 15:33:52.4094 INFO GeUserstRentedMovies initiated
+2022-06-10 15:33:58.2592 INFO GeUserstRentedMovies initiated
+2022-06-10 15:34:55.3343 INFO GeUserstRentedMovies initiated
+2022-06-10 15:35:44.1185 INFO GeUserstRentedMovies initiated
+2022-06-10 15:35:45.7953 INFO GeUserstRentedMovies initiated
+2022-06-10 15:36:39.5920 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:03.5381 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:10.0108 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:14.8583 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:28.8355 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:33.1310 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:39.3777 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:44.8227 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:49.0297 INFO GeUserstRentedMovies initiated
+2022-06-10 15:37:52.5988 INFO GeUserstRentedMovies initiated
+2022-06-10 15:38:49.8165 INFO GeUserstRentedMovies initiated
+2022-06-10 15:39:01.9946 INFO GeUserstRentedMovies initiated
+2022-06-10 15:39:02.7571 INFO GeUserstRentedMovies initiated
+2022-06-10 15:39:13.0642 INFO GeUserstRentedMovies initiated
+2022-06-10 15:40:20.1742 INFO GeUserstRentedMovies initiated
+2022-06-10 15:51:24.3818 INFO AddMovie initiated
+2022-06-10 15:51:24.5079 ERROR Failed executing DbCommand (14ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32), @p4='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Name], [OwnerId], [Price], [ProductionHouseId], [RenterId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-06-10 15:51:24.5945 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Movies_AspNetUsers_OwnerId". The conflict occurred in database "Film", table "dbo.AspNetUsers", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:6c5f020b-3902-4553-ba4d-76032de40603
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-06-10 15:51:24.6813 ERROR Exception Caught
+2022-06-10 16:26:29.2977 INFO GeUserstRentedMovies initiated
+2022-06-10 16:34:34.8635 INFO GeUserstRentedMovies initiated
+2022-06-10 16:39:09.5678 INFO AddMovie initiated
+2022-06-10 16:39:09.5678 ERROR Failed executing DbCommand (8ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32), @p4='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Name], [OwnerId], [Price], [ProductionHouseId], [RenterId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-06-10 16:39:09.5678 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Movies_AspNetUsers_OwnerId". The conflict occurred in database "Film", table "dbo.AspNetUsers", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:796212e0-a1fb-4690-b41a-614266db2bbc
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-06-10 16:39:09.6060 ERROR Exception Caught
+2022-06-10 16:39:20.9551 INFO AddMovie initiated
+2022-06-10 16:39:20.9551 ERROR Failed executing DbCommand (1ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32), @p4='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Name], [OwnerId], [Price], [ProductionHouseId], [RenterId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-06-10 16:39:20.9592 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Movies_AspNetUsers_OwnerId". The conflict occurred in database "Film", table "dbo.AspNetUsers", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:796212e0-a1fb-4690-b41a-614266db2bbc
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-06-10 16:39:20.9881 ERROR Exception Caught
+2022-06-10 16:41:42.8844 INFO GeUserstRentedMovies initiated
+2022-06-10 16:41:48.0414 INFO GeUserstRentedMovies initiated
+2022-06-10 16:41:49.3802 INFO GeUserstRentedMovies initiated
+2022-06-10 16:41:50.3487 INFO GeUserstRentedMovies initiated
+2022-06-10 16:42:06.0278 INFO GeUserstRentedMovies initiated
+2022-06-10 16:42:14.5621 INFO GeUserstRentedMovies initiated
+2022-06-10 16:42:23.2397 INFO AddMovie initiated
+2022-06-10 16:42:23.2435 ERROR Failed executing DbCommand (3ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32), @p4='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Movies] ([Name], [OwnerId], [Price], [ProductionHouseId], [RenterId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Movies]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-06-10 16:42:23.2435 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Movies_AspNetUsers_OwnerId". The conflict occurred in database "Film", table "dbo.AspNetUsers", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:796212e0-a1fb-4690-b41a-614266db2bbc
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-06-10 16:42:23.2772 ERROR Exception Caught
+2022-06-10 16:43:01.2900 INFO GeUserstRentedMovies initiated
+2022-06-10 16:43:02.6766 INFO GeUserstRentedMovies initiated
+2022-06-10 16:43:16.6605 INFO GeUserstRentedMovies initiated
+2022-06-10 16:43:18.0576 INFO GeUserstRentedMovies initiated
+2022-06-10 16:43:31.6499 INFO GeUserstRentedMovies initiated
+2022-06-10 16:43:36.4352 INFO GeUserstRentedMovies initiated
+2022-06-10 16:43:47.6187 INFO GeUserstRentedMovies initiated
+2022-06-10 16:43:49.5989 INFO GeUserstRentedMovies initiated
+2022-06-10 16:44:05.8918 INFO GeUserstRentedMovies initiated
+2022-06-10 16:44:33.9892 INFO GeUserstRentedMovies initiated
+2022-06-10 16:44:38.2076 INFO GeUserstRentedMovies initiated
+2022-06-10 16:44:40.0635 INFO GeUserstRentedMovies initiated
+2022-06-10 16:44:44.6673 INFO GeUserstRentedMovies initiated
+2022-06-10 16:45:05.4403 INFO GeUserstRentedMovies initiated
+2022-06-10 16:45:11.6037 INFO GeUserstRentedMovies initiated
+2022-06-10 16:45:20.6356 INFO GeUserstRentedMovies initiated
+2022-06-10 16:45:53.1580 INFO GeUserstRentedMovies initiated
+2022-06-10 16:45:58.8458 INFO GeUserstRentedMovies initiated
+2022-06-10 16:46:25.0407 INFO GeUserstRentedMovies initiated
+2022-06-10 16:46:53.8489 INFO GeUserstRentedMovies initiated
+2022-06-10 16:46:57.7973 INFO GeUserstRentedMovies initiated
+2022-06-10 16:47:36.3377 INFO GeUserstRentedMovies initiated
+2022-06-10 16:47:56.1754 INFO GeUserstRentedMovies initiated
+2022-06-10 16:48:34.2055 INFO GeUserstRentedMovies initiated
+2022-06-10 16:48:36.4962 INFO GeUserstRentedMovies initiated
+2022-06-10 16:48:46.2893 INFO GeUserstRentedMovies initiated
+2022-06-10 16:49:00.4839 INFO GeUserstRentedMovies initiated

@@ -1,0 +1,811 @@
+2022-07-02 11:04:35.9570 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 11:04:36.0047 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 11:04:36.0047 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 11:06:04.6585 INFO GeUserstRentedMovies initiated
+2022-07-02 11:06:07.1903 INFO GeUserstRentedMovies initiated
+2022-07-02 11:07:28.3105 INFO GeUserstRentedMovies initiated
+2022-07-02 11:07:28.3758 INFO GeUserstRentedMovies initiated
+2022-07-02 11:07:29.2166 INFO GeUserstRentedMovies initiated
+2022-07-02 11:07:29.2587 INFO GeUserstRentedMovies initiated
+2022-07-02 11:07:31.9704 INFO GeUserstRentedMovies initiated
+2022-07-02 11:07:32.0301 INFO GeUserstRentedMovies initiated
+2022-07-02 11:07:40.5664 INFO GeUserstRentedMovies initiated
+2022-07-02 11:07:40.6146 INFO GeUserstRentedMovies initiated
+2022-07-02 11:09:13.1584 INFO GeUserstRentedMovies initiated
+2022-07-02 11:09:13.2199 INFO GeUserstRentedMovies initiated
+2022-07-02 11:09:15.2622 INFO GeUserstRentedMovies initiated
+2022-07-02 11:09:15.3184 INFO GeUserstRentedMovies initiated
+2022-07-02 11:10:32.4800 INFO GeUserstRentedMovies initiated
+2022-07-02 11:10:32.5207 INFO GeUserstRentedMovies initiated
+2022-07-02 11:10:42.5547 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:11:26.0901 INFO GeUserstRentedMovies initiated
+2022-07-02 11:11:26.1533 INFO GeUserstRentedMovies initiated
+2022-07-02 11:11:46.4723 INFO GeUserstRentedMovies initiated
+2022-07-02 11:11:46.5280 INFO GeUserstRentedMovies initiated
+2022-07-02 11:11:52.0690 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:13:59.2313 INFO GeUserstRentedMovies initiated
+2022-07-02 11:13:59.2772 INFO GeUserstRentedMovies initiated
+2022-07-02 11:14:05.9839 INFO GeUserstRentedMovies initiated
+2022-07-02 11:14:06.0298 INFO GeUserstRentedMovies initiated
+2022-07-02 11:14:45.0189 INFO GeUserstRentedMovies initiated
+2022-07-02 11:14:45.0840 INFO GeUserstRentedMovies initiated
+2022-07-02 11:14:49.6308 INFO GeUserstRentedMovies initiated
+2022-07-02 11:14:49.6849 INFO GeUserstRentedMovies initiated
+2022-07-02 11:15:11.4030 INFO GeUserstRentedMovies initiated
+2022-07-02 11:15:11.4544 INFO GeUserstRentedMovies initiated
+2022-07-02 11:16:36.0329 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:17:19.7340 INFO GeUserstRentedMovies initiated
+2022-07-02 11:17:19.8096 INFO GeUserstRentedMovies initiated
+2022-07-02 11:17:26.1052 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:17:35.1475 INFO GeUserstRentedMovies initiated
+2022-07-02 11:17:35.2072 INFO GeUserstRentedMovies initiated
+2022-07-02 11:17:38.2683 INFO GeUserstRentedMovies initiated
+2022-07-02 11:17:38.3117 INFO GeUserstRentedMovies initiated
+2022-07-02 11:17:44.0735 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:17:49.3401 INFO GeUserstRentedMovies initiated
+2022-07-02 11:17:49.3928 INFO GeUserstRentedMovies initiated
+2022-07-02 11:17:55.3388 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:18:09.2347 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:09.2915 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:30.2205 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:30.2795 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:41.6560 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:41.6976 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:45.0631 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:45.1276 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:59.2139 INFO GeUserstRentedMovies initiated
+2022-07-02 11:18:59.2580 INFO GeUserstRentedMovies initiated
+2022-07-02 11:19:24.6973 INFO GeUserstRentedMovies initiated
+2022-07-02 11:19:24.7422 INFO GeUserstRentedMovies initiated
+2022-07-02 11:19:27.0394 INFO GeUserstRentedMovies initiated
+2022-07-02 11:19:27.0907 INFO GeUserstRentedMovies initiated
+2022-07-02 11:19:51.2323 INFO GeUserstRentedMovies initiated
+2022-07-02 11:19:51.2828 INFO GeUserstRentedMovies initiated
+2022-07-02 11:19:53.1103 INFO GeUserstRentedMovies initiated
+2022-07-02 11:19:53.1557 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:00.9543 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:00.9722 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:08.2207 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:08.2919 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:10.1497 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:10.1943 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:32.7673 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:32.8228 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:38.7771 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:38.8366 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:42.9322 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:42.9990 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:44.1719 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:44.2340 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:48.3366 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:48.4062 INFO GeUserstRentedMovies initiated
+2022-07-02 11:20:59.2901 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:21:12.1322 INFO GeUserstRentedMovies initiated
+2022-07-02 11:21:12.1913 INFO GeUserstRentedMovies initiated
+2022-07-02 11:21:17.0664 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:21:28.6262 INFO GeUserstRentedMovies initiated
+2022-07-02 11:21:28.6823 INFO GeUserstRentedMovies initiated
+2022-07-02 11:21:33.3684 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:21:44.5685 INFO GeUserstRentedMovies initiated
+2022-07-02 11:21:44.6521 INFO GeUserstRentedMovies initiated
+2022-07-02 11:21:56.5491 INFO GeUserstRentedMovies initiated
+2022-07-02 11:21:56.6021 INFO GeUserstRentedMovies initiated
+2022-07-02 11:22:23.1341 INFO GeUserstRentedMovies initiated
+2022-07-02 11:22:23.1801 INFO GeUserstRentedMovies initiated
+2022-07-02 11:22:24.8525 INFO GeUserstRentedMovies initiated
+2022-07-02 11:22:24.9144 INFO GeUserstRentedMovies initiated
+2022-07-02 11:22:41.0334 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:22:51.5301 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:23:12.1382 INFO GeUserstRentedMovies initiated
+2022-07-02 11:23:12.1991 INFO GeUserstRentedMovies initiated
+2022-07-02 11:23:13.2096 INFO GeUserstRentedMovies initiated
+2022-07-02 11:23:13.2843 INFO GeUserstRentedMovies initiated
+2022-07-02 11:23:20.0036 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:24:54.9489 INFO GeUserstRentedMovies initiated
+2022-07-02 11:24:54.9945 INFO GeUserstRentedMovies initiated
+2022-07-02 11:24:58.2286 INFO GeUserstRentedMovies initiated
+2022-07-02 11:24:58.2823 INFO GeUserstRentedMovies initiated
+2022-07-02 11:25:06.4026 INFO GeUserstRentedMovies initiated
+2022-07-02 11:25:06.4796 INFO GeUserstRentedMovies initiated
+2022-07-02 11:28:55.8814 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:29:30.0691 INFO GeUserstRentedMovies initiated
+2022-07-02 11:29:30.1314 INFO GeUserstRentedMovies initiated
+2022-07-02 11:30:12.2471 INFO GeUserstRentedMovies initiated
+2022-07-02 11:30:12.3066 INFO GeUserstRentedMovies initiated
+2022-07-02 11:33:45.8252 INFO GeUserstRentedMovies initiated
+2022-07-02 11:33:45.8907 INFO GeUserstRentedMovies initiated
+2022-07-02 11:33:51.0532 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:34:17.5621 INFO GeUserstRentedMovies initiated
+2022-07-02 11:34:17.6863 INFO GeUserstRentedMovies initiated
+2022-07-02 11:34:24.1792 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:34:31.6315 INFO GeUserstRentedMovies initiated
+2022-07-02 11:34:31.6930 INFO GeUserstRentedMovies initiated
+2022-07-02 11:34:43.4545 INFO GeUserstRentedMovies initiated
+2022-07-02 11:34:43.4942 INFO GeUserstRentedMovies initiated
+2022-07-02 11:34:47.9984 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:34:50.4689 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:35:09.3646 INFO GeUserstRentedMovies initiated
+2022-07-02 11:35:09.4158 INFO GeUserstRentedMovies initiated
+2022-07-02 11:35:10.7540 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:36:47.8627 INFO GeUserstRentedMovies initiated
+2022-07-02 11:36:47.9305 INFO GeUserstRentedMovies initiated
+2022-07-02 11:37:04.3645 INFO GeUserstRentedMovies initiated
+2022-07-02 11:37:04.4307 INFO GeUserstRentedMovies initiated
+2022-07-02 11:37:08.1272 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:37:22.7293 INFO GeUserstRentedMovies initiated
+2022-07-02 11:37:22.7879 INFO GeUserstRentedMovies initiated
+2022-07-02 11:37:52.2677 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:37:52.5597 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:37:54.6386 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:38:08.4427 INFO GeUserstRentedMovies initiated
+2022-07-02 11:38:08.5050 INFO GeUserstRentedMovies initiated
+2022-07-02 11:38:09.5715 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:47:08.1586 INFO GeUserstRentedMovies initiated
+2022-07-02 11:47:08.2144 INFO GeUserstRentedMovies initiated
+2022-07-02 11:47:14.5736 INFO GeUserstRentedMovies initiated
+2022-07-02 11:47:14.6198 INFO GeUserstRentedMovies initiated
+2022-07-02 11:47:16.2076 INFO GeUserstRentedMovies initiated
+2022-07-02 11:47:16.2726 INFO GeUserstRentedMovies initiated
+2022-07-02 11:47:22.9678 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:47:37.4584 INFO GeUserstRentedMovies initiated
+2022-07-02 11:47:37.5062 INFO GeUserstRentedMovies initiated
+2022-07-02 11:47:38.3544 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:47:58.7145 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:48:21.5013 INFO GeUserstRentedMovies initiated
+2022-07-02 11:48:21.5599 INFO GeUserstRentedMovies initiated
+2022-07-02 11:48:27.6518 INFO GeUserstRentedMovies initiated
+2022-07-02 11:48:27.7221 INFO GeUserstRentedMovies initiated
+2022-07-02 11:48:34.2189 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:49:20.5145 INFO GeUserstRentedMovies initiated
+2022-07-02 11:49:20.6009 INFO GeUserstRentedMovies initiated
+2022-07-02 11:49:22.3573 INFO GeUserstRentedMovies initiated
+2022-07-02 11:49:22.4203 INFO GeUserstRentedMovies initiated
+2022-07-02 11:49:29.4964 INFO GeUserstRentedMovies initiated
+2022-07-02 11:49:29.5575 INFO GeUserstRentedMovies initiated
+2022-07-02 11:50:01.5644 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:50:06.8048 INFO GeUserstRentedMovies initiated
+2022-07-02 11:50:06.8783 INFO GeUserstRentedMovies initiated
+2022-07-02 11:50:07.6469 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:50:39.6556 INFO GeUserstRentedMovies initiated
+2022-07-02 11:50:39.6966 INFO GeUserstRentedMovies initiated
+2022-07-02 11:50:42.0096 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:50:52.4474 INFO GeUserstRentedMovies initiated
+2022-07-02 11:50:52.5180 INFO GeUserstRentedMovies initiated
+2022-07-02 11:50:53.7219 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:51:30.7166 INFO GeUserstRentedMovies initiated
+2022-07-02 11:51:30.7725 INFO GeUserstRentedMovies initiated
+2022-07-02 11:51:32.8577 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:52:46.7430 INFO GeUserstRentedMovies initiated
+2022-07-02 11:52:46.8008 INFO GeUserstRentedMovies initiated
+2022-07-02 11:52:56.4668 INFO GeUserstRentedMovies initiated
+2022-07-02 11:52:56.5473 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:00.1331 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:00.1822 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:03.0001 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:03.0349 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:06.2108 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:53:18.9250 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:53:24.7116 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:24.7623 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:27.7866 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:27.8355 INFO GeUserstRentedMovies initiated
+2022-07-02 11:53:28.6653 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 11:54:30.9583 INFO GeUserstRentedMovies initiated
+2022-07-02 11:54:31.0155 INFO GeUserstRentedMovies initiated
+2022-07-02 11:55:11.4978 INFO GeUserstRentedMovies initiated
+2022-07-02 11:55:11.5649 INFO GeUserstRentedMovies initiated
+2022-07-02 11:55:17.9515 INFO GeUserstRentedMovies initiated
+2022-07-02 11:55:18.0279 INFO GeUserstRentedMovies initiated
+2022-07-02 11:57:46.2545 INFO GeUserstRentedMovies initiated
+2022-07-02 11:57:46.3176 INFO GeUserstRentedMovies initiated
+2022-07-02 12:00:41.4648 INFO GeUserstRentedMovies initiated
+2022-07-02 12:00:41.5125 INFO GeUserstRentedMovies initiated
+2022-07-02 12:00:42.8503 INFO GeUserstRentedMovies initiated
+2022-07-02 12:00:42.9287 INFO GeUserstRentedMovies initiated
+2022-07-02 12:01:04.3317 INFO GeUserstRentedMovies initiated
+2022-07-02 12:01:04.4008 INFO GeUserstRentedMovies initiated
+2022-07-02 12:01:32.0937 INFO GeUserstRentedMovies initiated
+2022-07-02 12:01:32.1560 INFO GeUserstRentedMovies initiated
+2022-07-02 12:01:45.8044 INFO GeUserstRentedMovies initiated
+2022-07-02 12:01:45.8775 INFO GeUserstRentedMovies initiated
+2022-07-02 12:01:56.8469 INFO GeUserstRentedMovies initiated
+2022-07-02 12:01:56.9159 INFO GeUserstRentedMovies initiated
+2022-07-02 12:02:07.3944 INFO GeUserstRentedMovies initiated
+2022-07-02 12:02:07.4600 INFO GeUserstRentedMovies initiated
+2022-07-02 12:02:08.5016 INFO GeUserstRentedMovies initiated
+2022-07-02 12:02:08.5579 INFO GeUserstRentedMovies initiated
+2022-07-02 12:02:38.2487 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 12:02:51.3091 INFO GeUserstRentedMovies initiated
+2022-07-02 12:02:51.3907 INFO GeUserstRentedMovies initiated
+2022-07-02 12:03:13.3156 INFO GeUserstRentedMovies initiated
+2022-07-02 12:03:13.3814 INFO GeUserstRentedMovies initiated
+2022-07-02 12:03:15.4097 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 12:03:53.4514 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 12:05:17.0868 INFO GeUserstRentedMovies initiated
+2022-07-02 12:05:17.1635 INFO GeUserstRentedMovies initiated
+2022-07-02 12:05:19.3146 INFO GeUserstRentedMovies initiated
+2022-07-02 12:05:19.3719 INFO GeUserstRentedMovies initiated
+2022-07-02 12:05:21.4126 INFO GeUserstRentedMovies initiated
+2022-07-02 12:05:23.5148 INFO GeUserstRentedMovies initiated
+2022-07-02 12:05:26.3270 INFO GeUserstRentedMovies initiated
+2022-07-02 12:05:34.4893 INFO GeUserstRentedMovies initiated
+2022-07-02 12:06:19.5512 INFO GeUserstRentedMovies initiated
+2022-07-02 12:07:09.2270 INFO GeUserstRentedMovies initiated
+2022-07-02 12:07:21.5807 INFO GeUserstRentedMovies initiated
+2022-07-02 12:07:23.5337 INFO GeUserstRentedMovies initiated
+2022-07-02 12:07:25.2494 INFO GeUserstRentedMovies initiated
+2022-07-02 12:07:27.1344 INFO GeUserstRentedMovies initiated
+2022-07-02 12:07:44.9270 INFO GeUserstRentedMovies initiated
+2022-07-02 12:07:46.8420 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:29.3417 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:29.3892 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:34.1761 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:34.2425 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:36.2220 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:36.2803 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:37.5659 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:37.6006 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:40.3417 INFO GeUserstRentedMovies initiated
+2022-07-02 12:08:40.4045 INFO GeUserstRentedMovies initiated
+2022-07-02 12:09:19.1983 INFO GeUserstRentedMovies initiated
+2022-07-02 12:09:19.2563 INFO GeUserstRentedMovies initiated
+2022-07-02 12:09:25.1450 INFO GeUserstRentedMovies initiated
+2022-07-02 12:09:25.2007 INFO GeUserstRentedMovies initiated
+2022-07-02 12:09:29.0136 INFO GeUserstRentedMovies initiated
+2022-07-02 12:09:29.0708 INFO GeUserstRentedMovies initiated
+2022-07-02 12:09:47.7671 INFO GeUserstRentedMovies initiated
+2022-07-02 12:09:47.8184 INFO GeUserstRentedMovies initiated
+2022-07-02 12:10:00.6516 INFO GeUserstRentedMovies initiated
+2022-07-02 12:10:00.7219 INFO GeUserstRentedMovies initiated
+2022-07-02 12:10:02.5681 INFO GeUserstRentedMovies initiated
+2022-07-02 12:10:02.6654 INFO GeUserstRentedMovies initiated
+2022-07-02 12:10:08.6282 INFO GeUserstRentedMovies initiated
+2022-07-02 12:10:08.6711 INFO GeUserstRentedMovies initiated
+2022-07-02 12:13:05.2339 INFO GeUserstRentedMovies initiated
+2022-07-02 12:13:05.2772 INFO GeUserstRentedMovies initiated
+2022-07-02 12:13:21.4086 INFO GeUserstRentedMovies initiated
+2022-07-02 12:13:21.4537 INFO GeUserstRentedMovies initiated
+2022-07-02 12:21:12.9035 INFO GeUserstRentedMovies initiated
+2022-07-02 12:21:12.9771 INFO GeUserstRentedMovies initiated
+2022-07-02 12:21:16.3719 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 12:22:01.6411 INFO GeUserstRentedMovies initiated
+2022-07-02 12:22:01.7099 INFO GeUserstRentedMovies initiated
+2022-07-02 12:22:21.6504 INFO GeUserstRentedMovies initiated
+2022-07-02 12:22:21.6999 INFO GeUserstRentedMovies initiated
+2022-07-02 12:22:28.7271 INFO GeUserstRentedMovies initiated
+2022-07-02 12:22:28.7818 INFO GeUserstRentedMovies initiated
+2022-07-02 12:25:08.5292 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 12:35:11.1223 WARN Change password failed for user.
+2022-07-02 12:35:59.0342 INFO GeUserstRentedMovies initiated
+2022-07-02 12:35:59.0730 INFO GeUserstRentedMovies initiated
+2022-07-02 12:36:39.2586 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 12:37:18.8064 INFO GeUserstRentedMovies initiated
+2022-07-02 12:37:18.8641 INFO GeUserstRentedMovies initiated
+2022-07-02 12:37:21.5073 INFO GeUserstRentedMovies initiated
+2022-07-02 12:37:21.5718 INFO GeUserstRentedMovies initiated
+2022-07-02 12:37:36.8169 INFO GeUserstRentedMovies initiated
+2022-07-02 12:37:36.8800 INFO GeUserstRentedMovies initiated
+2022-07-02 12:37:48.4813 INFO GeUserstRentedMovies initiated
+2022-07-02 12:37:48.5658 INFO GeUserstRentedMovies initiated
+2022-07-02 12:38:12.7288 INFO GeUserstRentedMovies initiated
+2022-07-02 12:38:12.7840 INFO GeUserstRentedMovies initiated
+2022-07-02 12:49:15.2245 INFO GeUserstRentedMovies initiated
+2022-07-02 12:49:15.2940 INFO GeUserstRentedMovies initiated
+2022-07-02 12:49:45.5394 INFO GeUserstRentedMovies initiated
+2022-07-02 12:49:45.5816 INFO GeUserstRentedMovies initiated
+2022-07-02 12:50:19.0357 INFO GeUserstRentedMovies initiated
+2022-07-02 12:50:19.1001 INFO GeUserstRentedMovies initiated
+2022-07-02 12:50:24.6505 INFO GeUserstRentedMovies initiated
+2022-07-02 12:50:24.6982 INFO GeUserstRentedMovies initiated
+2022-07-02 12:50:27.9869 INFO GeUserstRentedMovies initiated
+2022-07-02 12:50:28.0617 INFO GeUserstRentedMovies initiated
+2022-07-02 12:51:40.2982 INFO GeUserstRentedMovies initiated
+2022-07-02 12:51:40.3461 INFO GeUserstRentedMovies initiated
+2022-07-02 12:51:44.3532 INFO GeUserstRentedMovies initiated
+2022-07-02 12:51:44.3956 INFO GeUserstRentedMovies initiated
+2022-07-02 12:51:46.1464 INFO GeUserstRentedMovies initiated
+2022-07-02 12:51:46.2557 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:03.6036 WARN Change password failed for user.
+2022-07-02 12:52:06.7581 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:06.8080 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:29.0557 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:29.1324 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:34.0487 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:34.0972 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:52.1880 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:52.2379 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:54.7179 INFO GeUserstRentedMovies initiated
+2022-07-02 12:52:54.7831 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:02.1619 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:02.2364 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:15.0708 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:15.1478 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:17.8452 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:17.9157 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:22.0159 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:22.0798 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:26.9896 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:27.0301 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:36.9850 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:37.0410 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:41.4380 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:41.4884 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:56.0445 INFO GeUserstRentedMovies initiated
+2022-07-02 12:53:56.0953 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:00.3337 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:00.3985 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:02.1881 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:02.2689 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:22.1725 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:22.2637 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:23.0396 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:23.0987 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:27.5100 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:27.5614 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:29.9078 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:29.9591 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:31.6249 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:31.6583 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:37.0783 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:37.1183 INFO GeUserstRentedMovies initiated
+2022-07-02 12:54:44.1087 INFO GeUserstRentedMovies initiated
+2022-07-02 12:55:15.3364 INFO GeUserstRentedMovies initiated
+2022-07-02 12:55:15.3905 INFO GeUserstRentedMovies initiated
+2022-07-02 12:55:20.1941 INFO GeUserstRentedMovies initiated
+2022-07-02 12:55:20.2565 INFO GeUserstRentedMovies initiated
+2022-07-02 12:55:43.6484 INFO GeUserstRentedMovies initiated
+2022-07-02 12:55:43.7019 INFO GeUserstRentedMovies initiated
+2022-07-02 12:57:36.3707 INFO GeUserstRentedMovies initiated
+2022-07-02 12:57:36.4308 INFO GeUserstRentedMovies initiated
+2022-07-02 12:57:39.4127 INFO GeUserstRentedMovies initiated
+2022-07-02 12:57:39.4776 INFO GeUserstRentedMovies initiated
+2022-07-02 12:58:08.7326 INFO GeUserstRentedMovies initiated
+2022-07-02 12:58:14.0881 INFO GeUserstRentedMovies initiated
+2022-07-02 12:58:22.3372 INFO GeUserstRentedMovies initiated
+2022-07-02 12:58:23.3036 INFO GeUserstRentedMovies initiated
+2022-07-02 12:58:44.3853 INFO GeUserstRentedMovies initiated
+2022-07-02 12:58:46.7356 INFO GeUserstRentedMovies initiated
+2022-07-02 12:59:04.4264 INFO GeUserstRentedMovies initiated
+2022-07-02 12:59:04.4734 INFO GeUserstRentedMovies initiated
+2022-07-02 13:00:13.9460 INFO GeUserstRentedMovies initiated
+2022-07-02 13:00:13.9919 INFO GeUserstRentedMovies initiated
+2022-07-02 13:00:49.3660 INFO GeUserstRentedMovies initiated
+2022-07-02 13:00:49.4112 INFO GeUserstRentedMovies initiated
+2022-07-02 13:00:57.1195 INFO GeUserstRentedMovies initiated
+2022-07-02 13:00:57.1438 INFO GeUserstRentedMovies initiated
+2022-07-02 13:01:43.3862 INFO GeUserstRentedMovies initiated
+2022-07-02 13:01:43.4403 INFO GeUserstRentedMovies initiated
+2022-07-02 13:03:41.6919 INFO GeUserstRentedMovies initiated
+2022-07-02 13:03:41.7661 INFO GeUserstRentedMovies initiated
+2022-07-02 13:03:58.1439 WARN Change password failed for user.
+2022-07-02 13:04:07.5394 INFO GeUserstRentedMovies initiated
+2022-07-02 13:04:07.5989 INFO GeUserstRentedMovies initiated
+2022-07-02 13:04:48.7402 INFO GeUserstRentedMovies initiated
+2022-07-02 13:04:48.8012 INFO GeUserstRentedMovies initiated
+2022-07-02 13:04:54.2769 INFO GeUserstRentedMovies initiated
+2022-07-02 13:05:00.6773 INFO GeUserstRentedMovies initiated
+2022-07-02 13:05:01.9868 INFO GeUserstRentedMovies initiated
+2022-07-02 13:05:31.1711 INFO GeUserstRentedMovies initiated
+2022-07-02 13:05:42.8540 INFO GeUserstRentedMovies initiated
+2022-07-02 13:05:44.1587 INFO GeUserstRentedMovies initiated
+2022-07-02 13:06:17.1794 INFO GeUserstRentedMovies initiated
+2022-07-02 13:06:17.2219 INFO GeUserstRentedMovies initiated
+2022-07-02 13:06:40.5863 INFO GeUserstRentedMovies initiated
+2022-07-02 13:06:40.6392 INFO GeUserstRentedMovies initiated
+2022-07-02 13:06:49.2489 INFO GeUserstRentedMovies initiated
+2022-07-02 13:06:49.2736 INFO GeUserstRentedMovies initiated
+2022-07-02 13:06:50.5339 WARN Change password failed for user.
+2022-07-02 13:06:53.9231 WARN Change password failed for user.
+2022-07-02 13:07:04.1020 INFO GeUserstRentedMovies initiated
+2022-07-02 13:07:04.1539 INFO GeUserstRentedMovies initiated
+2022-07-02 13:07:08.9727 WARN Change password failed for user.
+2022-07-02 13:07:13.1242 INFO GeUserstRentedMovies initiated
+2022-07-02 13:07:13.1777 INFO GeUserstRentedMovies initiated
+2022-07-02 13:07:46.5929 ERROR An unhandled exception has occurred while executing the request.
+2022-07-02 13:07:59.2001 WARN Change password failed for user.
+2022-07-02 17:24:57.1901 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 17:24:57.2652 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 17:24:57.2861 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 17:29:17.2261 INFO GeUserstRentedMovies initiated
+2022-07-02 17:29:18.3778 INFO GeUserstRentedMovies initiated
+2022-07-02 17:46:40.6421 INFO GeUserstRentedMovies initiated
+2022-07-02 17:46:40.7192 INFO GeUserstRentedMovies initiated
+2022-07-02 17:46:58.8100 INFO GeUserstRentedMovies initiated
+2022-07-02 17:59:47.4620 INFO GeUserstRentedMovies initiated
+2022-07-02 17:59:50.0059 INFO GeUserstRentedMovies initiated
+2022-07-02 17:59:50.0154 INFO GeUserstRentedMovies initiated
+2022-07-02 18:06:24.1347 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:06:24.1635 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:06:24.1693 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:07:46.1161 INFO GeUserstRentedMovies initiated
+2022-07-02 18:07:48.1522 INFO GeUserstRentedMovies initiated
+2022-07-02 18:07:48.1522 INFO GeUserstRentedMovies initiated
+2022-07-02 18:08:40.7859 INFO GeUserstRentedMovies initiated
+2022-07-02 18:08:40.8385 INFO GeUserstRentedMovies initiated
+2022-07-02 18:08:40.8464 INFO GeUserstRentedMovies initiated
+2022-07-02 18:08:55.8389 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:08:55.8660 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:08:55.8660 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:09:16.0839 INFO GeUserstRentedMovies initiated
+2022-07-02 18:09:16.2464 INFO GeUserstRentedMovies initiated
+2022-07-02 18:09:16.2808 INFO GeUserstRentedMovies initiated
+2022-07-02 18:09:20.5974 INFO GeUserstRentedMovies initiated
+2022-07-02 18:09:20.6493 INFO GeUserstRentedMovies initiated
+2022-07-02 18:09:20.6538 INFO GeUserstRentedMovies initiated
+2022-07-02 18:09:22.6388 INFO GeUserstRentedMovies initiated
+2022-07-02 18:09:22.6737 INFO GeUserstRentedMovies initiated
+2022-07-02 18:09:22.6737 INFO GeUserstRentedMovies initiated
+2022-07-02 18:10:46.5006 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:10:46.5358 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:10:46.5358 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:10:56.8215 WARN Invalid password for user.
+2022-07-02 18:10:56.8215 WARN User failed to provide the correct password.
+2022-07-02 18:10:59.8865 WARN Invalid password for user.
+2022-07-02 18:10:59.8865 WARN User failed to provide the correct password.
+2022-07-02 18:11:04.5757 WARN Invalid password for user.
+2022-07-02 18:11:04.5757 WARN User failed to provide the correct password.
+2022-07-02 18:11:09.3703 WARN Invalid password for user.
+2022-07-02 18:11:09.3715 WARN User failed to provide the correct password.
+2022-07-02 18:11:27.3847 INFO GeUserstRentedMovies initiated
+2022-07-02 18:11:28.6886 INFO GeUserstRentedMovies initiated
+2022-07-02 18:11:28.6886 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:10.8231 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:10.8720 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:10.8720 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:11.3417 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:11.4031 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:11.4031 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:14.2578 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:34.8324 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:34.9388 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:34.9670 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:34.9670 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:35.0217 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:35.0296 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:35.9807 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:36.0130 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:36.0130 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:36.3013 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:36.3479 INFO GeUserstRentedMovies initiated
+2022-07-02 18:12:36.3479 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:15.0737 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:31.5548 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:31.7852 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:31.7852 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:31.9448 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:32.0115 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:32.0162 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:41.6143 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:41.6951 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:41.6999 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:41.8352 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:41.9176 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:41.9176 INFO GeUserstRentedMovies initiated
+2022-07-02 18:13:42.3283 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:01.4224 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:01.4507 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:01.4867 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:01.4867 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:01.5361 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:01.5361 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:04.7285 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:04.7407 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:04.8170 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:04.8170 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:04.8518 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:04.8560 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:07.6064 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:50.1076 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:50.1719 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:50.1719 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:50.2123 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:50.3131 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:50.3131 INFO GeUserstRentedMovies initiated
+2022-07-02 18:14:55.9684 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:36.0899 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:36.1665 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:36.1681 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:36.1681 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:36.2568 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:36.2568 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:42.3830 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:42.4028 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:42.4618 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:42.4694 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:42.4840 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:42.4840 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:44.2899 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:44.3703 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:44.3703 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:44.7550 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:44.8465 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:44.8586 INFO GeUserstRentedMovies initiated
+2022-07-02 18:15:47.3447 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:16.4445 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:16.5412 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:16.5493 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:16.6859 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:16.7528 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:16.7528 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:19.7222 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:19.8022 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:19.8083 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:19.9606 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:20.0702 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:20.0745 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:20.4158 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:41.7639 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:41.7879 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:41.8439 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:41.8439 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:41.8840 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:41.8891 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:45.5023 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:45.5916 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:45.5916 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:45.5916 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:45.6915 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:45.6915 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:50.1867 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:50.2385 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:50.2840 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:50.2840 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:50.3295 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:50.3295 INFO GeUserstRentedMovies initiated
+2022-07-02 18:16:55.8553 INFO GeUserstRentedMovies initiated
+2022-07-02 18:19:50.1061 INFO GeUserstRentedMovies initiated
+2022-07-02 18:19:50.1678 INFO GeUserstRentedMovies initiated
+2022-07-02 18:19:50.1678 INFO GeUserstRentedMovies initiated
+2022-07-02 18:19:50.1856 INFO GeUserstRentedMovies initiated
+2022-07-02 18:19:50.2930 INFO GeUserstRentedMovies initiated
+2022-07-02 18:19:50.2930 INFO GeUserstRentedMovies initiated
+2022-07-02 18:19:54.0515 INFO GeUserstRentedMovies initiated
+2022-07-02 18:21:49.8213 INFO GeUserstRentedMovies initiated
+2022-07-02 18:21:49.8917 INFO GeUserstRentedMovies initiated
+2022-07-02 18:21:49.9188 INFO GeUserstRentedMovies initiated
+2022-07-02 18:21:49.9188 INFO GeUserstRentedMovies initiated
+2022-07-02 18:21:49.9874 INFO GeUserstRentedMovies initiated
+2022-07-02 18:21:49.9874 INFO GeUserstRentedMovies initiated
+2022-07-02 18:21:52.6291 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:22.0325 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:22.0826 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:22.1130 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:22.1218 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:22.1964 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:22.2007 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:24.2753 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:24.3122 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:24.3703 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:24.3746 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:24.4132 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:24.4173 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:27.0028 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:27.1121 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:27.1121 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:27.2650 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:27.3734 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:27.3734 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:30.7483 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:30.8794 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:30.8794 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:30.9966 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:31.1481 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:31.1481 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:33.8358 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:33.9136 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:33.9136 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:33.9824 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:34.0743 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:34.0743 INFO GeUserstRentedMovies initiated
+2022-07-02 18:22:41.2113 INFO GeUserstRentedMovies initiated
+2022-07-02 18:23:24.5882 INFO GeUserstRentedMovies initiated
+2022-07-02 18:23:24.6527 INFO GeUserstRentedMovies initiated
+2022-07-02 18:23:24.7169 INFO GeUserstRentedMovies initiated
+2022-07-02 18:23:24.7169 INFO GeUserstRentedMovies initiated
+2022-07-02 18:23:24.7741 INFO GeUserstRentedMovies initiated
+2022-07-02 18:23:24.7787 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:10.2896 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:10.4475 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:10.4593 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:10.5251 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:10.6592 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:10.7833 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:23.9319 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:24.0118 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:24.0118 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:24.0118 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:24.1537 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:24.1537 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:52.5773 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:52.6697 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:52.6892 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:52.7324 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:52.8630 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:52.8630 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:53.8928 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:53.9424 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:53.9953 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:53.9998 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:54.0355 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:54.0355 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:56.5047 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:56.5627 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:56.5627 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:56.9477 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:57.0253 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:57.0291 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:58.5084 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:58.6181 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:58.6229 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:58.7362 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:58.8040 INFO GeUserstRentedMovies initiated
+2022-07-02 18:34:58.8084 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:09.1056 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:09.1450 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:09.1643 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:09.1691 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:09.2917 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:09.2953 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:13.7958 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:13.8456 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:13.8555 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:13.8555 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:13.9331 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:13.9376 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:16.3391 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:16.3757 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:16.3968 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:16.3968 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:16.4675 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:16.4675 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:22.9630 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:23.1058 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:23.1058 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:23.2757 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:23.3256 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:23.3256 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:48.5900 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:48.6529 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:48.6972 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:48.6989 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:48.7899 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:48.7936 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:52.5993 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:52.6624 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:52.6776 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:52.6776 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:52.7643 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:52.7643 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:55.5990 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:55.5990 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:55.7256 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:55.7303 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:55.7303 INFO GeUserstRentedMovies initiated
+2022-07-02 18:35:55.7481 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:06.9311 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:06.9658 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:07.0169 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:07.0169 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:07.0584 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:07.0584 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:09.9437 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:09.9437 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:10.0496 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:10.0496 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:10.0783 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:10.0783 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:12.6166 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:12.6903 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:12.7287 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:12.7328 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:12.8374 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:12.8413 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:15.1307 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:15.1584 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:15.2353 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:15.2353 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:15.2353 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:15.2584 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:17.3892 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:17.4358 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:17.4358 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:17.4592 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:17.5626 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:17.5626 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:18.4899 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:18.5648 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:18.5648 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:18.9121 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:18.9782 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:18.9814 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:21.0637 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:21.1343 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:21.1390 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:21.4093 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:21.4891 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:21.4891 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:22.4938 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:22.5441 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:22.5849 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:22.5905 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:22.6432 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:22.6432 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:24.8300 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:24.8933 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:24.8933 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:25.2380 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:25.3120 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:25.3120 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:26.3931 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:26.4253 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:26.4253 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:26.8736 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:26.9547 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:26.9547 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:36.5868 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:36.6921 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:36.6921 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:36.9057 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:37.0219 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:37.0219 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:41.0042 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:41.0251 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:41.0750 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:41.0750 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:41.1539 INFO GeUserstRentedMovies initiated
+2022-07-02 18:36:41.1539 INFO GeUserstRentedMovies initiated
+2022-07-02 18:37:00.8003 INFO GeUserstRentedMovies initiated
+2022-07-02 18:37:00.8601 INFO GeUserstRentedMovies initiated
+2022-07-02 18:37:00.8601 INFO GeUserstRentedMovies initiated
+2022-07-02 18:37:01.2541 INFO GeUserstRentedMovies initiated
+2022-07-02 18:37:01.3048 INFO GeUserstRentedMovies initiated
+2022-07-02 18:37:01.3100 INFO GeUserstRentedMovies initiated
+2022-07-02 18:38:58.6361 INFO GeUserstRentedMovies initiated
+2022-07-02 18:38:58.8475 INFO GeUserstRentedMovies initiated
+2022-07-02 18:38:58.8706 INFO GeUserstRentedMovies initiated
+2022-07-02 18:38:58.8802 INFO GeUserstRentedMovies initiated
+2022-07-02 18:38:59.0093 INFO GeUserstRentedMovies initiated
+2022-07-02 18:38:59.0135 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:04.2753 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:04.3392 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:04.3442 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:04.3969 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:04.5415 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:04.5466 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:29.6370 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:29.7061 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:29.7061 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:30.1085 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:30.1892 INFO GeUserstRentedMovies initiated
+2022-07-02 18:39:30.1892 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:11.3107 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:11.3865 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:11.3865 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:11.6795 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:11.7837 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:11.7837 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:13.3901 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:13.4044 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:13.4511 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:13.4511 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:13.4794 INFO GeUserstRentedMovies initiated
+2022-07-02 18:40:13.4834 INFO GeUserstRentedMovies initiated
+2022-07-02 18:41:44.7020 INFO GeUserstRentedMovies initiated
+2022-07-02 18:41:44.7206 INFO GeUserstRentedMovies initiated
+2022-07-02 18:41:44.7929 INFO GeUserstRentedMovies initiated
+2022-07-02 18:41:44.7929 INFO GeUserstRentedMovies initiated
+2022-07-02 18:41:44.8182 INFO GeUserstRentedMovies initiated
+2022-07-02 18:41:44.8182 INFO GeUserstRentedMovies initiated
+2022-07-02 18:43:19.3629 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:43:19.3957 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:43:19.3957 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:50:00.3641 INFO GeUserstRentedMovies initiated
+2022-07-02 18:50:00.5759 INFO GeUserstRentedMovies initiated
+2022-07-02 18:58:47.9031 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:58:47.9318 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 18:58:47.9347 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 19:01:51.3023 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 19:01:51.3323 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 19:01:51.3323 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-02 19:01:56.9305 INFO GeUserstRentedMovies initiated
+2022-07-02 19:02:14.8652 INFO GeUserstRentedMovies initiated

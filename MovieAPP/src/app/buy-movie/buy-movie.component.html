@@ -1,0 +1,10 @@
+<div class="search">
+    <mat-form-field>
+        <input id="searchText" matInput name="search" type="search" placeholder="Pretraži..." [(ngModel)]="searchText"
+            class="search">
+    </mat-form-field>
+</div>
+<div *ngFor="let movie  of movies | appFilter:searchText" class="col-12 karticaholder">
+
+    <app-buy-movie-card [movie]="movie"></app-buy-movie-card>
+</div>

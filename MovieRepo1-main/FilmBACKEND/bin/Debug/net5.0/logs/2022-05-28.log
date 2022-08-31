@@ -1,0 +1,18 @@
+2022-05-28 17:06:30.2866 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-28 17:06:30.3293 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-28 17:06:30.3293 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-28 17:07:36.5523 INFO GetMoviesList initiated
+2022-05-28 17:19:30.1253 ERROR An unhandled exception has occurred while executing the request.
+2022-05-28 17:19:42.6423 ERROR An unhandled exception has occurred while executing the request.
+2022-05-28 17:21:08.0451 ERROR An unhandled exception has occurred while executing the request.
+2022-05-28 17:24:30.7190 ERROR An unhandled exception has occurred while executing the request.
+2022-05-28 17:29:45.4732 ERROR An unhandled exception has occurred while executing the request.
+2022-05-28 17:30:30.0964 ERROR An unhandled exception has occurred while executing the request.
+2022-05-28 17:31:09.9938 ERROR An unhandled exception has occurred while executing the request.
+2022-05-28 18:50:21.9178 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-28 18:50:22.0356 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-28 18:50:22.0801 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-05-28 18:53:43.7665 WARN Invalid password for user.
+2022-05-28 18:53:43.7665 WARN User failed to provide the correct password.
+2022-05-28 18:54:33.4949 WARN Invalid password for user.
+2022-05-28 18:54:33.4949 WARN User failed to provide the correct password.

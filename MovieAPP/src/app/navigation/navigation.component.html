@@ -1,0 +1,158 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav
+    #drawer
+    class="sidenav"
+    fixedInViewport
+    [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="(isHandset$ | async) ? 'over' : 'side'"
+    [opened]="(isHandset$ | async) === false"
+  >
+    <mat-toolbar class="tekst">MENI</mat-toolbar>
+    <mat-nav-list>
+      <div class="tekst">
+        <a
+          mat-list-item
+          routerLink="/home"
+          *appHasRole="['Member', 'Moderator', 'Admin']"
+          routerLinkActive="active"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon>home</mat-icon> Početna stranica
+        </a>
+      </div>
+      <div class="tekst">
+        <a
+          *appHasRole="['Member']"
+          mat-list-item
+          routerLink="/bmovie"
+          routerLinkActive="active"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon> shopping_cart </mat-icon> Kupite film
+        </a>
+      </div>
+      <div class="tekst">
+        <a
+          *appHasRole="['Moderator']"
+          mat-list-item
+          routerLink="/umovie"
+          routerLinkActive="active"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon> publish</mat-icon> Postavite oglas
+        </a>
+      </div>
+      <div class="tekst">
+        <a
+          *appHasRole="['Member', 'Moderator']"
+          routerLinkActive="active"
+          mat-list-item
+          href="#"
+          routerLink="/dashboard"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon>account_circle</mat-icon> Moj profil
+        </a>
+      </div>
+      <div class="tekst">
+        <a
+          *appHasRole="['Admin']"
+          routerLinkActive="active"
+          mat-list-item
+          href="#"
+          routerLink="/admin-control"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon>settings</mat-icon> Admin panel
+        </a>
+      </div>
+      <div class="tekst">
+        <a
+          mat-list-item
+          routerLink="/"
+          routerLinkActive="active"
+          *ngIf="(accountService.currentUser$ | async) === null"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon>exit_to_app</mat-icon> Login
+        </a>
+      </div>
+      <div class="tekst">
+        <a
+          mat-list-item
+          routerLink="/register"
+          routerLinkActive="active"
+          *ngIf="(accountService.currentUser$ | async) === null"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon>perm_identity</mat-icon> Registracija
+        </a>
+      </div>
+      <div class="tekst">
+        <a
+          *appHasRole="['Member', 'Moderator', 'Admin']"
+          mat-list-item
+          href="#"
+          (click)="logout()"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon>exit_to_app</mat-icon> Logout
+        </a>
+      </div>
+      <div class="tekst">
+        <a
+          mat-list-item
+          routerLink="/contact"
+          routerLinkActive="active"
+          [routerLinkActiveOptions]="{ exact: true }"
+        >
+          <mat-icon> contact_mail</mat-icon> Kontakt
+        </a>
+      </div>
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <mat-toolbar class="SideNav">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+      >
+        <div (click)="onClick()" class="btn">
+          <div
+            class="icon-bar"
+            [@hamburguerX]="isHamburguer ? 'hamburguer' : 'topX'"
+          ></div>
+          <div
+            class="icon-bar"
+            [@hamburguerX]="isHamburguer ? 'hamburguer' : 'hide'"
+          ></div>
+          <div
+            class="icon-bar"
+            [@hamburguerX]="isHamburguer ? 'hamburguer' : 'bottomX'"
+          ></div>
+        </div>
+      </button>
+      <div class="desni">
+        <div
+          *ngIf="(accountService.currentUser$ | async) != null"
+          class="media align-items-center"
+        >
+          <mat-icon
+            *appHasRole="['Member']"
+            routerLinkActive="active"
+            routerLink="/cart"
+            [routerLinkActiveOptions]="{ exact: true }"
+            >shopping_cart</mat-icon
+          >
+        </div>
+      </div>
+    </mat-toolbar>
+
+    <div class="router">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
