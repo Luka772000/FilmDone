@@ -1,6 +1,6 @@
 .row {
   justify-content: center;
-  color: white
+  color: white;
 }
 
 .rowtop {
@@ -14,11 +14,11 @@
 }
 
 .prvired {
-  width: 30%
+  width: 30%;
 }
 
 .welcome {
-  font-size: 50px
+  font-size: 50px;
 }
 
 .welcome2 {
@@ -33,7 +33,6 @@
   margin-right: 36.5%;
   width: 27%;
 
-
   border-radius: 2%;
   background-color: rgb(239, 239, 239);
 }
@@ -41,11 +40,11 @@
   display: none;
 }
 h3 {
-  color: black
+  color: black;
 }
 
 h4 {
-  color: red
+  color: red;
 }
 
 .promjena:hover {
@@ -64,12 +63,12 @@ h4 {
 ::ng-deep .mat-form-field-value {
   color: rgb(108, 108, 108) !important;
 }
-::ng-deep .mat-form-field-wrapper{
-  padding:none;
-  margin:none;
+::ng-deep .mat-form-field-wrapper {
+  padding: none;
+  margin: none;
 }
 ::ng-deep .mat-input-wrapper {
-  width: 50% !important
+  width: 50% !important;
 }
 
 .matInput {
@@ -86,7 +85,7 @@ h4 {
   background-color: rgb(248, 248, 248);
   border-radius: 5px;
   margin-bottom: 10px;
-  Box-shadow: 0 2px 1px rgba(0, 0, 0, 0.19), 0 3px 3px rgba(0, 0, 0, 0.23);
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.19), 0 3px 3px rgba(0, 0, 0, 0.23);
 }
 
 .pozadina {
@@ -114,29 +113,26 @@ h4 {
   max-height: 1450px;
 }
 
-
-
-
-.parallax>use {
-  animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
 }
 
-.parallax>use:nth-child(1) {
+.parallax > use:nth-child(1) {
   animation-delay: -2s;
   animation-duration: 7s;
 }
 
-.parallax>use:nth-child(2) {
+.parallax > use:nth-child(2) {
   animation-delay: -3s;
   animation-duration: 10s;
 }
 
-.parallax>use:nth-child(3) {
+.parallax > use:nth-child(3) {
   animation-delay: -4s;
   animation-duration: 13s;
 }
 
-.parallax>use:nth-child(4) {
+.parallax > use:nth-child(4) {
   animation-delay: -5s;
   animation-duration: 20s;
 }

@@ -1,0 +1,74 @@
+2022-08-11 10:14:53.6605 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-11 10:14:54.8066 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 10:14:54.8066 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 10:14:54.8155 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 10:14:56.4262 INFO GetUnRentedMovies initiated
+2022-08-11 10:14:56.4453 INFO GeUserstRentedMovies initiated
+2022-08-11 10:14:56.6359 INFO GetUnRentedMovies initiated
+2022-08-11 10:18:08.4947 INFO GetRoles initiated
+2022-08-11 10:18:10.4053 INFO GetRoles initiated
+2022-08-11 10:18:12.6609 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:12.6609 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:12.6609 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:15.0631 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:15.1266 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:15.1266 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:15.1266 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:32.0547 INFO UnRentMovie initiated
+2022-08-11 10:18:32.5253 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:32.5649 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:32.5649 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:32.5649 INFO GeUserstRentedMovies initiated
+2022-08-11 10:18:34.1018 INFO GetUnRentedMovies initiated
+2022-08-11 10:20:32.4129 INFO GeUserstRentedMovies initiated
+2022-08-11 10:20:34.1677 INFO GeUserstRentedMovies initiated
+2022-08-11 10:20:36.3739 INFO GeUserstRentedMovies initiated
+2022-08-11 10:20:38.2023 INFO GeUserstRentedMovies initiated
+2022-08-11 10:20:40.3081 INFO GeUserstRentedMovies initiated
+2022-08-11 10:20:57.7569 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:00.3148 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:08.4682 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:10.1125 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:16.4962 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:19.5396 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:22.9860 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:28.6168 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:33.7038 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:42.8742 INFO GeUserstRentedMovies initiated
+2022-08-11 10:21:45.0555 INFO GeUserstRentedMovies initiated
+2022-08-11 10:22:03.3580 INFO GeUserstRentedMovies initiated
+2022-08-11 10:24:25.1115 INFO GeUserstRentedMovies initiated
+2022-08-11 10:24:35.2766 INFO GeUserstRentedMovies initiated
+2022-08-11 10:24:42.6617 INFO GeUserstRentedMovies initiated
+2022-08-11 10:24:53.2473 INFO GeUserstRentedMovies initiated
+2022-08-11 10:24:55.3550 INFO GeUserstRentedMovies initiated
+2022-08-11 10:24:57.7239 INFO GeUserstRentedMovies initiated
+2022-08-11 10:25:02.5443 INFO GeUserstRentedMovies initiated
+2022-08-11 10:27:51.3681 INFO GeUserstRentedMovies initiated
+2022-08-11 10:27:55.6091 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:01.4185 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:27.4894 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:28.5122 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:30.6944 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:37.0592 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:39.7718 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:41.0602 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:55.4379 INFO GeUserstRentedMovies initiated
+2022-08-11 10:28:56.3474 INFO GeUserstRentedMovies initiated
+2022-08-11 10:31:30.6649 INFO GeUserstRentedMovies initiated
+2022-08-11 11:18:06.1960 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-11 11:18:07.2696 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 11:18:07.2696 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 11:18:07.2696 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 11:24:44.4365 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-11 11:24:45.2738 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 11:24:45.2738 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 11:24:45.2856 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 12:22:31.8549 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-11 12:22:33.3754 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 12:22:33.3842 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 12:22:33.3977 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-11 12:37:40.8834 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-11 12:37:44.0820 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-11 12:37:51.8777 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2022-08-11 12:38:04.8497 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.

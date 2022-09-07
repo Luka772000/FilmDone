@@ -4,6 +4,9 @@ table {
   overflow-y: scroll;
   object-fit: contain;
 }
+th{
+  position:sticky
+}
 
 .display {
   height: 100%;

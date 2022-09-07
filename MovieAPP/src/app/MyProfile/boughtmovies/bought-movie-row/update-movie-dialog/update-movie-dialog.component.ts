@@ -19,8 +19,6 @@ export class UpdateMovieDialogComponent implements OnInit {
   updateForm: FormGroup;
   model: any = {};
   ngOnInit(): void {
-    console.log('dadawdad');
-    console.log(this.movie);
     this.initializeForm();
   }
   initializeForm() {

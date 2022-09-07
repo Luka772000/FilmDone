@@ -1,0 +1,176 @@
+2022-08-05 10:21:40.3241 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 10:21:40.3754 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 10:21:40.3881 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:57:11.9838 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:57:12.0130 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:57:12.0130 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:57:20.8794 INFO GetRoles initiated
+2022-08-05 11:57:20.9760 ERROR Exception Caught
+2022-08-05 11:57:20.9760 INFO GetRoles initiated
+2022-08-05 11:57:21.0567 ERROR Exception Caught
+2022-08-05 11:58:15.0127 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:58:15.0630 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:58:15.0692 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:58:17.0084 INFO GetRoles initiated
+2022-08-05 11:58:17.0890 ERROR Exception Caught
+2022-08-05 11:59:07.7533 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:59:07.7808 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:59:07.7808 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 11:59:13.6668 INFO GetRoles initiated
+2022-08-05 12:01:30.6617 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:01:30.6910 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:01:30.6952 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:01:37.3506 INFO GetRoles initiated
+2022-08-05 12:42:52.5135 INFO GetRoles initiated
+2022-08-05 12:43:06.5289 INFO CreateMovieRole initiated
+2022-08-05 12:43:06.5853 ERROR Exception Caught
+2022-08-05 12:43:15.1248 INFO CreateMovieRole initiated
+2022-08-05 12:43:15.3430 ERROR Failed executing DbCommand (10ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [MovieRoles] ([ActorId], [MovieId], [RoleName])
+VALUES (@p0, @p1, @p2);
+2022-08-05 12:43:15.4406 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_MovieRoles'. Cannot insert duplicate key in object 'dbo.MovieRoles'. The duplicate key value is (1, 1).
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:17a470a6-c308-4c6d-97d1-3a727d9e066c
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-08-05 12:43:15.4901 ERROR Exception Caught
+2022-08-05 12:45:10.5746 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:45:10.6014 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:45:10.6014 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:45:24.0391 INFO CreateMovieRole initiated
+2022-08-05 12:45:24.2505 ERROR Failed executing DbCommand (8ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Actors] ([Id], [Name])
+VALUES (@p0, @p1);
+2022-08-05 12:45:24.2896 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Actors' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:fccba908-0fdc-41f7-8be5-84e5e28ccb87
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-08-05 12:45:24.3339 ERROR Exception Caught
+2022-08-05 12:45:52.0066 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:45:52.0379 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:45:52.0379 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:46:01.8955 INFO CreateMovieRole initiated
+2022-08-05 12:46:02.0545 ERROR Failed executing DbCommand (5ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Actors] ([Id], [Name])
+VALUES (@p0, @p1);
+2022-08-05 12:46:02.0936 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Actors' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7c67d37d-a008-4f37-908f-b760945ed826
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-08-05 12:46:02.1457 ERROR Exception Caught
+2022-08-05 12:47:39.2606 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:47:39.2863 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:47:39.2863 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 12:47:50.9619 INFO CreateMovieRole initiated
+2022-08-05 12:47:51.0672 ERROR Exception Caught
+2022-08-05 13:06:43.3534 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 13:06:43.3794 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 13:06:43.3794 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 13:07:00.5165 INFO CreateMovieRole initiated
+2022-08-05 13:09:37.6713 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 13:09:37.7167 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 13:09:37.7255 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 13:09:48.0175 INFO CreateMovieRole initiated
+2022-08-05 13:09:48.2824 ERROR Exception Caught
+2022-08-05 18:03:33.9380 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:03:33.9895 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:03:33.9895 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:05:39.6667 INFO CreateMovieRole initiated
+2022-08-05 18:05:40.0371 ERROR Exception Caught
+2022-08-05 18:05:43.1895 INFO CreateMovieRole initiated
+2022-08-05 18:06:57.0075 INFO CreateMovieRole initiated
+2022-08-05 18:06:57.0563 ERROR Exception Caught
+2022-08-05 18:08:12.2321 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:08:12.2751 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:08:12.2751 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:08:19.0156 INFO CreateMovieRole initiated
+2022-08-05 18:08:19.3792 ERROR Exception Caught
+2022-08-05 18:08:31.9461 INFO CreateMovieRole initiated
+2022-08-05 18:08:32.0460 ERROR Exception Caught
+2022-08-05 18:10:37.6578 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:10:37.7040 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:10:37.7082 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:11:15.0138 INFO CreateMovieRole initiated
+2022-08-05 18:20:51.4356 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:20:51.4624 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:20:51.4624 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-05 18:20:53.7216 INFO CreateMovieRole initiated
+2022-08-05 18:20:53.9964 ERROR Exception Caught

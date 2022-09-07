@@ -1,3 +1,4 @@
+import { LoadingInterceptor } from './_interceptors/loading.interceptor';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
@@ -49,6 +50,7 @@ import { AddActorDialogComponent } from './MyProfile/boughtmovies/bought-movie-r
 import { SearchFilter1 } from './buy-movie/search-filter/search-filter.component';
 import { JwtInterceptor } from './_interceptors/jwt.interceptors';
 import { ErrorInterceptor } from './_interceptors/error.interceptors';
+import { NgxSpinnerModule } from 'ngx-spinner';
 @NgModule({
   declarations: [
     AppComponent,
@@ -100,11 +102,13 @@ import { ErrorInterceptor } from './_interceptors/error.interceptors';
     MatRadioModule,
     MatStepperModule,
     MatDialogModule,
-    FormsModule
+    FormsModule,
+    NgxSpinnerModule,
   ],
   providers: [
     {provide : HTTP_INTERCEPTORS, useClass : JwtInterceptor, multi : true},
-    {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true}
+    {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true},
+    {provide: HTTP_INTERCEPTORS, useClass: LoadingInterceptor, multi: true}
   ],
   bootstrap: [AppComponent]
 })

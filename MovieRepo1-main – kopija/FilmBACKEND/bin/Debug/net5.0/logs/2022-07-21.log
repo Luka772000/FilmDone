@@ -1,0 +1,99 @@
+2022-07-21 12:32:44.1735 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 12:32:44.2130 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 12:32:44.2130 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 12:35:13.6870 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 12:35:13.7166 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 12:35:13.7166 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 13:41:22.2674 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 13:41:22.2980 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 13:41:22.2980 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 13:47:30.6067 INFO GeUserstRentedMovies initiated
+2022-07-21 13:47:35.8376 INFO GetUnRentedMovies initiated
+2022-07-21 13:47:39.9593 INFO GetUnRentedMovies initiated
+2022-07-21 13:48:51.6128 INFO GetUnRentedMovies initiated
+2022-07-21 13:49:31.4622 INFO GeUserstRentedMovies initiated
+2022-07-21 13:49:42.7042 INFO GeUserstRentedMovies initiated
+2022-07-21 13:50:58.9570 INFO GeUserstRentedMovies initiated
+2022-07-21 13:57:10.2215 INFO GeUserstRentedMovies initiated
+2022-07-21 13:57:24.2966 INFO GeUserstRentedMovies initiated
+2022-07-21 14:02:29.3096 INFO GeUserstRentedMovies initiated
+2022-07-21 14:02:37.1030 INFO GeUserstRentedMovies initiated
+2022-07-21 14:02:40.1099 INFO GeUserstRentedMovies initiated
+2022-07-21 14:03:06.4430 INFO GeUserstRentedMovies initiated
+2022-07-21 14:04:17.8469 INFO GeUserstRentedMovies initiated
+2022-07-21 14:06:06.0129 INFO GeUserstRentedMovies initiated
+2022-07-21 14:06:08.6171 INFO GeUserstRentedMovies initiated
+2022-07-21 14:06:11.9533 INFO GeUserstRentedMovies initiated
+2022-07-21 14:06:12.8225 INFO GeUserstRentedMovies initiated
+2022-07-21 14:06:16.4012 INFO GeUserstRentedMovies initiated
+2022-07-21 14:16:53.9739 INFO GeUserstRentedMovies initiated
+2022-07-21 14:17:09.0791 INFO GeUserstRentedMovies initiated
+2022-07-21 14:22:31.8734 INFO GeUserstRentedMovies initiated
+2022-07-21 14:23:12.8548 INFO GeUserstRentedMovies initiated
+2022-07-21 14:23:20.6180 INFO GetUnRentedMovies initiated
+2022-07-21 14:23:30.7261 INFO RentMovie initiated
+2022-07-21 14:23:30.7261 INFO RentMovie initiated
+2022-07-21 14:36:45.4986 ERROR Exception Caught
+2022-07-21 14:36:45.4986 ERROR Exception Caught
+2022-07-21 14:37:01.3530 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:37:01.3801 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:37:01.3833 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:37:03.7934 INFO GetMoviesList initiated
+2022-07-21 14:37:52.9113 INFO RentMovie initiated
+2022-07-21 14:40:02.4386 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:40:02.4666 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:40:02.4666 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:40:03.0843 INFO RentMovie initiated
+2022-07-21 14:40:20.0592 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:40:20.0969 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:40:20.1018 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:40:21.0942 ERROR An unhandled exception has occurred while executing the request.
+2022-07-21 14:41:05.9970 INFO RentMovie initiated
+2022-07-21 14:41:51.6066 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:41:51.6395 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:41:51.6395 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:41:52.1965 ERROR An unhandled exception has occurred while executing the request.
+2022-07-21 14:41:56.7311 INFO GetMoviesList initiated
+2022-07-21 14:42:29.4230 INFO RentMovie initiated
+2022-07-21 14:42:35.3268 INFO GetMoviesList initiated
+2022-07-21 14:42:36.6348 INFO GetMoviesList initiated
+2022-07-21 14:43:02.0916 INFO GeUserstRentedMovies initiated
+2022-07-21 14:43:03.6479 INFO GetUnRentedMovies initiated
+2022-07-21 14:43:11.8699 INFO RentMovie initiated
+2022-07-21 14:52:00.1848 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:52:00.2134 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:52:00.2134 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:52:00.9681 INFO GeUserstRentedMovies initiated
+2022-07-21 14:52:06.7919 INFO GetUnRentedMovies initiated
+2022-07-21 14:52:15.8618 INFO RentMovie initiated
+2022-07-21 14:52:15.8618 INFO RentMovie initiated
+2022-07-21 14:59:16.5025 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:59:16.5308 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:59:16.5308 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 14:59:17.0038 INFO GeUserstRentedMovies initiated
+2022-07-21 14:59:38.7575 INFO GetUnRentedMovies initiated
+2022-07-21 14:59:49.3548 INFO RentMovie initiated
+2022-07-21 14:59:49.3548 INFO RentMovie initiated
+2022-07-21 15:04:51.0794 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 15:04:51.1231 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 15:04:51.1231 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-07-21 15:04:55.5345 INFO GetUnRentedMovies initiated
+2022-07-21 15:04:55.5477 INFO GeUserstRentedMovies initiated
+2022-07-21 15:05:01.9193 INFO RentMovie initiated
+2022-07-21 15:05:01.9193 INFO RentMovie initiated
+2022-07-21 15:05:01.9193 INFO RentMovie initiated
+2022-07-21 15:05:35.0050 INFO GeUserstRentedMovies initiated
+2022-07-21 15:05:40.6147 INFO GetUnRentedMovies initiated
+2022-07-21 15:05:47.0217 INFO RentMovie initiated
+2022-07-21 15:05:47.0217 INFO RentMovie initiated
+2022-07-21 15:05:47.0217 INFO RentMovie initiated
+2022-07-21 15:06:15.5857 INFO GetMoviesList initiated
+2022-07-21 15:06:53.8613 INFO GetUnRentedMovies initiated
+2022-07-21 15:06:58.9428 INFO RentMovie initiated
+2022-07-21 15:07:05.9961 INFO GetMoviesList initiated
+2022-07-21 15:07:14.2199 INFO GeUserstRentedMovies initiated
+2022-07-21 15:07:19.7043 INFO GetUnRentedMovies initiated
+2022-07-21 15:07:43.9927 INFO GeUserstRentedMovies initiated
+2022-07-21 15:07:55.9824 INFO GeUserstRentedMovies initiated
+2022-07-21 15:08:02.6218 INFO GeUserstRentedMovies initiated
+2022-07-21 15:09:08.9142 INFO GeUserstRentedMovies initiated

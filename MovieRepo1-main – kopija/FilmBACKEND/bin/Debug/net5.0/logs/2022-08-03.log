@@ -1,0 +1,101 @@
+2022-08-03 11:08:02.4193 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 11:08:02.4709 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 11:08:02.4964 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 11:09:18.6998 INFO GeUserstRentedMovies initiated
+2022-08-03 11:09:18.6998 INFO GeUserstRentedMovies initiated
+2022-08-03 11:09:18.6998 INFO GeUserstRentedMovies initiated
+2022-08-03 11:09:18.8241 INFO GeUserstRentedMovies initiated
+2022-08-03 11:12:07.1307 INFO GetUnRentedMovies initiated
+2022-08-03 11:12:19.6764 INFO GeUserstRentedMovies initiated
+2022-08-03 11:12:19.6764 INFO GeUserstRentedMovies initiated
+2022-08-03 11:12:19.6764 INFO GeUserstRentedMovies initiated
+2022-08-03 11:33:12.5158 INFO GetUnRentedMovies initiated
+2022-08-03 11:33:17.2997 INFO GetUnRentedMovies initiated
+2022-08-03 14:39:39.4268 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:39:39.4552 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:39:39.4552 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:54:14.9795 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:54:15.0121 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:54:15.0121 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:55:05.0487 INFO CreateMovieRole initiated
+2022-08-03 14:55:05.2421 ERROR Exception Caught
+2022-08-03 14:55:09.8784 INFO CreateMovieRole initiated
+2022-08-03 14:55:10.0997 ERROR Failed executing DbCommand (9ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [MovieRoles] ([ActorId], [MovieId], [RoleName])
+VALUES (@p0, @p1, @p2);
+2022-08-03 14:55:10.2158 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RoleName'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:89f3452f-c61f-4b27-a347-5c96c3393d45
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-08-03 14:55:10.2613 ERROR Exception Caught
+2022-08-03 14:58:03.9465 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:58:03.9741 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:58:03.9741 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 14:58:14.6619 INFO CreateMovieRole initiated
+2022-08-03 14:58:14.8904 ERROR Failed executing DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [MovieRoles] ([ActorId], [MovieId], [RoleName])
+VALUES (@p0, @p1, @p2);
+2022-08-03 14:58:14.9355 ERROR An exception occurred in the database while saving changes for context type 'FilmBACKEND.Models.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RoleName'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:afc8e9ca-c95d-4158-b36f-11ba590ffad8
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-08-03 14:58:14.9916 ERROR Exception Caught
+2022-08-03 14:58:55.3934 INFO CreateMovieRole initiated
+2022-08-03 14:58:55.4531 ERROR Exception Caught
+2022-08-03 15:06:51.1913 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 15:06:51.2186 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 15:06:51.2233 WARN Role (null) validation failed: DuplicateRoleName;DuplicateRoleName.
+2022-08-03 15:08:33.2194 INFO AddMovie initiated
+2022-08-03 15:08:55.1355 INFO CreateMovieRole initiated

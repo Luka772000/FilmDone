@@ -5,19 +5,20 @@
   background-image: url("../../assets/image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top
+  background-position: top;
 }
 
 .router {
   margin-top: 50px;
   margin-bottom: 50px;
   margin-left: 50px;
-  margin-right: 50px
+  margin-right: 50px;
 }
 
 .sidenav {
   width: 200px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 2, 2, 0.59);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19),
+    0 6px 20px 0 rgba(0, 2, 2, 0.59);
 }
 
 .userName {
@@ -29,9 +30,7 @@
 
 .sidenav .mat-toolbar {
   background: inherit;
-
 }
-
 .mat-toolbar.mat-secondary {
   position: sticky;
   top: 0;
@@ -42,18 +41,18 @@
   height: 60px;
   width: 60px;
   border-radius: 50%;
-
 }
 
 .lijevi {
   color: white;
-  margin-left: 100px
+  margin-left: 100px;
 }
-
 .desni {
   color: white;
   float: right;
-  margin-left: 95%
+  margin-left: 95%;
+  top:15px;
+  position:relative
 }
 
 .ikona {
@@ -80,21 +79,20 @@
 
 .username {
   margin-top: 7px;
-  margin-left: 5px
+  margin-left: 5px;
 }
 
 .SideNav {
   background-color: rgba(0, 252, 113, 0);
-  margin-top: 10px
+  position: sticky;
+  z-index: 10;
 }
 
 ::ng-deep .mat-form-field-label {
-  /*change color of label*/
   color: rgb(255, 255, 255) !important;
 }
 
 ::ng-deep.mat-form-field-underline {
-  /*change color of underline*/
   background-color: rgb(255, 255, 255) !important;
 }
 
@@ -107,15 +105,16 @@
 }
 
 :ng-deep .mat-input-element::placeholder {
-  color: rgb(255, 255, 255)
+  color: rgb(255, 255, 255) !important
 }
-
+mat-toolbar {
+  top: 10px;
+}
 .logo {
   height: 70px;
   width: 70px;
   margin-top: -10px;
   transition: 0.3;
-
 }
 
 .selected,
@@ -125,19 +124,19 @@
 }
 
 .link {
-  color: white
+  color: white;
 }
 
 .link:hover {
   cursor: pointer;
-
 }
 
 .mat-list-item {
   border-radius: 3px;
-
 }
-
+.kolica{
+  color: black;
+}
 .tekst {
   width: 90%;
   margin-left: 5%;
@@ -149,32 +148,33 @@
 
 .btn {
   cursor: pointer;
-  margin: 20px;
+  margin: 0px;
+  top: -100px;
 }
 
 .icon-bar {
   width: 50px;
   height: 5px;
-  background: rgb(255, 255, 255);
+  background: rgb(0, 0, 0);
   margin: 8px;
   position: relative;
 }
 
 @media (max-width: 768px) {
   .desni {
-    margin-left: auto
+    margin-left: auto;
   }
 }
 
 .media {
-  transform: scale(2)
+  transform: scale(2);
 }
 ::ng-deep .mat-form-field-label-wrapper {
   overflow: visible;
   margin-left: 25%;
 }
 ::ng-deep .mat-form-field-prefix {
-top:8px;
-left: 2px;
-margin-right:10px
+  top: 8px;
+  left: 2px;
+  margin-right: 10px;
 }
